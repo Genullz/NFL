@@ -1,0 +1,2092 @@
+Player_ID,Player,Position,Height,Weightt,Age,College,Team
+3,Budda Baker,DB,5'10,195,27,Washington,Arizonal Cardinals
+51,Krys Barnes,LB,6'2,229,25,UCLA,Arizonal Cardinals
+66,Jackson Barton,OT,6'7,302,28,Utah,Arizonal Cardinals
+68,Kelvin Beachum,OT,6'3,308,34,Southern Methodist,Arizonal Cardinals
+32,Joey Blount,DB,6'1,201,25,Virginia,Arizonal Cardinals
+46,Aaron Brewer,LS,6'5,232,33,San Diego State,Arizonal Cardinals
+22,Michael Carter,RB,5'8,201,24,North Carolina,Arizonal Cardinals
+36,Andre Chachere,DB,6'0,200,27,San Jose State,Arizonal Cardinals
+16,Dan Chisena,WR,6'3,202,26,Penn State,Arizonal Cardinals
+13,Kei'Trel Clark,DB,5'10,179,22,Louisville,Arizonal Cardinals
+25,Zaven Collins,LB,6'4,260,24,Tulsa,Arizonal Cardinals
+63,Trystan Colon-Castillo,OG,6'3,313,25,Missouri,Arizonal Cardinals
+6,James Conner,RB,6'1,233,28,Pittsburgh,Arizonal Cardinals
+71,Dennis Daley,OT,6'6,325,27,South Carolina,Arizonal Cardinals
+31,Emari Demercado,RB,5'9,215,24,Texas Christian,Arizonal Cardinals
+52,Victor Dimukeje,LB,6'2,265,24,Duke,Arizonal Cardinals
+83,Greg Dortch,WR,5'7,175,25,Wake Forest,Arizonal Cardinals
+95,Leki Fotu,DT,6'5,330,25,Utah,Arizonal Cardinals
+72,Hjalte Froholdt,OG,6'5,310,27,Arkansas,Arizonal Cardinals
+45,Dennis Gardeck,LB,6'0,232,29,Sioux Falls,Arizonal Cardinals
+12,Blake Gillikin,P,6'2,196,25,Penn State,Arizonal Cardinals
+33,Antonio Hamilton,DB,6'0,188,30,South Carolina State,Arizonal Cardinals
+76,Will Hernandez,OG,6'2,335,28,Texas-El Paso,Arizonal Cardinals
+84,Elijah Higgins,TE,6'3,235,23,Stanford,Arizonal Cardinals
+79,Phil Hoskins,DT,6'5,280,27,Kentucky,Arizonal Cardinals
+60,Keith Ismael,C,6'3,309,25,San Diego State,Arizonal Cardinals
+70,Paris Johnson,OT,6'6,310,22,Ohio State,Arizonal Cardinals
+96,Naquan Jones,DT,6'3,313,25,Michigan State,Arizonal Cardinals
+28,Qwuantrezz Knight,DB,6'0,199,26,UCLA,Arizonal Cardinals
+98,Roy Lopez,DT,6'2,318,26,Arizona,Arizonal Cardinals
+43,Jesse Luketa,LB,6'3,247,24,Penn State,Arizonal Cardinals
+58,Tyreek Maddox-Williams,LB,6'0,228,26,Rutgers,Arizonal Cardinals
+85,Trey McBride,TE,6'3,249,24,Colorado State,Arizonal Cardinals
+4,Rondale Moore,WR,5'7,180,23,Purdue,Arizonal Cardinals
+1,Kyler Murray,QB,5'10,207,26,Oklahoma,Arizonal Cardinals
+53,Trevor Nowaske,LB,6'3,237,25,Saginaw Valley State,Arizonal Cardinals
+61,Carter O'Donnell,OT,6'5,313,25,Alberta,Arizonal Cardinals
+18,BJ Ojulari,LB,6'2,248,21,Louisiana State,Arizonal Cardinals
+44,Owen Pappoe,LB,6'1,225,23,Auburn,Arizonal Cardinals
+0,Zach Pascal,WR,6'2,219,29,Old Dominion,Arizonal Cardinals
+5,Matt Prater,K,5'10,201,39,Central Florida,Arizonal Cardinals
+26,Bobby Price,DB,6'4,205,25,Norfolk State,Arizonal Cardinals
+50,Tyreke Smith,LB,6'3,255,23,Ohio State,Arizonal Cardinals
+90,Ben Stille,DT,6'4,296,26,Nebraska,Arizonal Cardinals
+97,Cameron Thomas,LB,6'5,270,24,San Diego State,Arizonal Cardinals
+24,Starling Thomas,DB,5'10,194,23,Alabama-Birmingham,Arizonal Cardinals
+34,Jalen Thompson,DB,5'11,190,25,Washington State,Arizonal Cardinals
+15,Clayton Tune,QB,6'2,216,24,Houston,Arizonal Cardinals
+47,Ezekiel Turner,LB,6'2,214,27,Washington,Arizonal Cardinals
+81,Travis Vokolek,TE,6'6,260,25,Nebraska,Arizonal Cardinals
+89,Blake Whiteheart,TE,6'4,249,23,Wake Forest,Arizonal Cardinals
+65,Elijah Wilkinson,OG,6'4,329,28,Massachusetts,Arizonal Cardinals
+21,Garrett Williams,DB,5'10,192,22,Syracuse,Arizonal Cardinals
+27,Divaad Wilson,DB,6'0,195,23,Central Florida,Arizonal Cardinals
+14,Michael Wilson,WR,6'2,209,23,Stanford,Arizonal Cardinals
+2,Marquise Brown,WR,5'9,170,26,Oklahoma,Arizonal Cardinals
+91,L.J. Collier,DE,6'3,291,28,Texas Christian,Arizonal Cardinals
+50,Pat Elflein,C,6'2,303,29,Ohio State,Arizonal Cardinals
+24,Rashad Fenton,DB,5'11,188,26,South Carolina,Arizonal Cardinals
+59,Jon Gaines,OG,6'4,300,23,UCLA,Arizonal Cardinals
+39,Matt Hembrough,LS,6'3,220,24,Oklahoma State,Arizonal Cardinals
+74,D.J. Humphries,OT,6'5,307,30,Florida,Arizonal Cardinals
+93,Jonathan Ledbetter,DE,6'4,280,26,Georgia,Arizonal Cardinals
+32,Marlon Mack,RB,5'11,210,27,South Florida,Arizonal Cardinals
+48,Kyler McMichael,DB,6'0,202,23,North Carolina,Arizonal Cardinals
+55,Dante Stills,DE,6'4,280,24,West Virginia,Arizonal Cardinals
+87,Geoff Swaim,TE,6'4,260,30,Texas,Arizonal Cardinals
+94,Carlos Watkins,DE,6'3,305,30,Clemson,Arizonal Cardinals
+7,Kyzir White,LB,6'2,218,27,West Virginia,Arizonal Cardinals
+10,Josh Woods,LB,6'1,204,27,Maryland,Arizonal Cardinals
+29,Micah Abernathy,DB,6'0,196,26,Tennessee,Atlanta_Falcons
+20,DeAundre Alford,DB,5'11,175,26,Tusculum College,Atlanta_Falcons
+25,Tyler Allgeier,RB,5'11,220,23,Brigham Young,Atlanta_Falcons
+3,Jessie Bates III,DB,6'1,200,26,Wake Forest,Atlanta_Falcons
+65,Matthew Bergeron,OT,6'5,323,23,Syracuse,Atlanta_Falcons
+35,Natrone Brooks,DB,5'11,176,24,Southern Mississippi,Atlanta_Falcons
+93,Calais Campbell,DE,6'8,282,37,Miami,Atlanta_Falcons
+0,Lorenzo Carter,LB,6'5,252,28,Georgia,Atlanta_Falcons
+67,Drew Dalman,C,6'3,300,25,Stanford,Atlanta_Falcons
+48,Alvin Dupree,LB,6'4,269,30,Kentucky,Atlanta_Falcons
+17,Arnold Ebiketie,LB,6'3,256,24,Penn State,Atlanta_Falcons
+55,Kaden Elliss,LB,6'2,238,28,Idaho,Atlanta_Falcons
+43,Tucker Fisk,TE,6'4,285,24,Stanford,Atlanta_Falcons
+87,John FitzPatrick,TE,6'7,250,23,Georgia,Atlanta_Falcons
+33,Tre Flowers,DB,6'3,200,28,Oklahoma State,Atlanta_Falcons
+99,Joe Gaziano,DE,6'4,275,27,Northwestern,Atlanta_Falcons
+95,Ta'Quon Graham,DT,6'4,294,25,Texas,Atlanta_Falcons
+27,Richie Grant,DB,6'0,200,26,Central Florida,Atlanta_Falcons
+56,Jovaughn Gwyn,OG,6'2,301,24,South Carolina,Atlanta_Falcons
+96,Zach Harrison,DE,6'6,272,22,Ohio State,Atlanta_Falcons
+4,Taylor Heinicke,QB,6'1,210,30,Old Dominion,Atlanta_Falcons
+37,DeMarcco Hellams,DB,6'1,213,23,Alabama,Atlanta_Falcons
+68,Kyle Hinton,OG,6'2,295,25,Washburn,Atlanta_Falcons
+12,Khadarel Hodge,WR,5'11,183,29,Prairie View A&M,Atlanta_Falcons
+18,Mack Hollins,WR,6'4,221,30,North Carolina,Atlanta_Falcons
+94,Albert Huggins,DT,6'3,305,26,Clemson,Atlanta_Falcons
+21,Mike Hughes,DB,5'10,189,27,Central Florida,Atlanta_Falcons
+15,Van Jefferson,WR,6'1,200,27,Florida,Atlanta_Falcons
+6,Younghoe Koo,K,5'9,185,29,Georgia Southern,Atlanta_Falcons
+53,Nate Landman,LB,6'3,235,25,Colorado,Atlanta_Falcons
+63,Chris Lindstrom,OG,6'3,307,26,Boston College,Atlanta_Falcons
+5,Drake London,WR,6'4,213,22,Southern California,Atlanta_Falcons
+72,LaCale London,DL,6'5,280,26,Western Illinois,Atlanta_Falcons
+51,DeAngelo Malone,LB,6'4,240,24,Western Kentucky,Atlanta_Falcons
+70,Jake Matthews,OT,6'5,309,31,Texas A&M,Atlanta_Falcons
+49,Liam McCullough,LS,6'2,247,--,Ohio State,Atlanta_Falcons
+76,Kaleb McGary,OT,6'6,306,28,Washington,Atlanta_Falcons
+16,Scott Miller,WR,5'9,174,26,Bowling Green,Atlanta_Falcons
+64,Ryan Neuzil,OG,6'3,301,26,Appalachian State,Atlanta_Falcons
+77,Storm Norton,OT,6'7,317,29,Toledo,Atlanta_Falcons
+1,Jeffrey Okudah,DB,6'1,202,24,Ohio State,Atlanta_Falcons
+90,David Onyemata,DT,6'3,300,31,Manitoba,Atlanta_Falcons
+84,Cordarrelle Patterson,RB,6'2,220,32,Tennessee,Atlanta_Falcons
+34,Clark Phillips,DB,5'10,183,22,Utah,Atlanta_Falcons
+13,Bradley Pinion,P,6'5,229,29,Clemson,Atlanta_Falcons
+8,Kyle Pitts,TE,6'6,246,23,Florida,Atlanta_Falcons
+85,MyCole Pruitt,TE,6'2,258,31,Southern Illinois,Atlanta_Falcons
+9,Desmond Ridder,QB,6'3,207,24,Cincinnati,Atlanta_Falcons
+7,Bijan Robinson,RB,5'11,215,21,Texas,Atlanta_Falcons
+59,Andre Smith,LB,6'0,240,26,North Carolina,Atlanta_Falcons
+81,Jonnu Smith,TE,6'3,248,28,Florida International,Atlanta_Falcons
+24,A.J. Terrell,DB,6'1,195,25,Clemson,Atlanta_Falcons
+62,Tommy Togiai,DT,6'2,296,24,Ohio State,Atlanta_Falcons
+11,Logan Woodside,QB,6'2,201,28,Toledo,Atlanta_Falcons
+80,Josh Ali,WR,6'0,193,24,Kentucky,Atlanta_Falcons
+44,Troy Andersen,LB,6'4,235,24,Montana State,Atlanta_Falcons
+79,Ikenna Enechukwu,LB,6'4,266,23,Rice,Atlanta_Falcons
+15,Feleipe Franks,TE,6'6,234,26,Arkansas,Atlanta_Falcons
+71,Ethan Greenidge,OT,6'4,335,26,Villanova,Atlanta_Falcons
+61,Matt Hennessy,C,6'3,307,26,Temple,Atlanta_Falcons
+97,Grady Jarrett,DT,6'0,305,30,Clemson,Atlanta_Falcons
+92,Adetokunbo Ogundeji,LB,6'4,268,25,Notre Dame,Atlanta_Falcons
+40,Keith Smith,RB,6'0,240,31,San Jose State,Atlanta_Falcons
+75,Kentavius Street,DT,6'2,287,27,North Carolina State,Atlanta_Falcons
+35,Avery Williams,RB,5'9,195,25,Boise State,Atlanta_Falcons
+37,Andrew Adams,DB,5'11,202,30,Connecticut,Baltimore_Ravens
+15,Nelson Agholor,WR,6'0,198,30,Southern California,Baltimore_Ravens
+71,Malaesala Aumavae-Laulu,OT,6'5,325,24,Oregon,Baltimore_Ravens
+7,Rashod Bateman,WR,6'1,197,24,Minnesota,Baltimore_Ravens
+3,Odell Beckham Jr.,WR,5'11,198,31,Louisiana State,Baltimore_Ravens
+66,Ben Cleveland,OG,6'6,370,25,Georgia,Baltimore_Ravens
+24,Jadeveon Clowney,LB,6'5,266,30,South Carolina,Baltimore_Ravens
+12,Malik Cunningham,QB,6'1,198,25,Louisville,Baltimore_Ravens
+28,Ronald Darby,DB,5'11,193,30,Florida State,Baltimore_Ravens
+35,Gus Edwards,RB,6'1,238,28,Rutgers,Baltimore_Ravens
+77,Daniel Faalele,OT,6'8,380,24,Minnesota,Baltimore_Ravens
+4,Zay Flowers,WR,5'9,182,23,Boston College,Baltimore_Ravens
+33,Melvin Gordon,RB,6'1,215,30,Wisconsin,Baltimore_Ravens
+14,Kyle Hamilton,DB,6'4,221,22,Notre Dame,Baltimore_Ravens
+40,Malik Harrison,LB,6'3,259,25,Ohio State,Baltimore_Ravens
+43,Justice Hill,RB,5'10,200,26,Oklahoma State,Baltimore_Ravens
+44,Marlon Humphrey,DB,6'0,205,27,Alabama,Baltimore_Ravens
+2,Tyler Huntley,QB,6'1,204,25,Utah,Baltimore_Ravens
+8,Lamar Jackson,QB,6'2,230,27,Louisville,Baltimore_Ravens
+17,Josh Johnson,QB,6'2,201,37,San Diego,Baltimore_Ravens
+98,Travis Jones,DT,6'4,334,24,Connecticut,Baltimore_Ravens
+88,Charlie Kolar,TE,6'6,250,24,Iowa State,Baltimore_Ravens
+80,Isaiah Likely,TE,6'4,241,23,Coastal Carolina,Baltimore_Ravens
+64,Tyler Linderbaum,C,6'2,305,23,Iowa,Baltimore_Ravens
+92,Justin Madubuike,DT,6'3,293,26,Texas A&M,Baltimore_Ravens
+38,Ben Mason,TE,6'3,258,24,Michigan,Baltimore_Ravens
+10,Arthur Maulet,DB,5'9,190,30,Memphis,Baltimore_Ravens
+65,Patrick Mekari,OT,6'4,305,26,California,Baltimore_Ravens
+48,Jeremiah Moon,LB,6'5,247,25,Florida,Baltimore_Ravens
+78,Morgan Moses,OT,6'6,320,32,Virginia,Baltimore_Ravens
+61,Sam Mustipher,C,6'3,306,27,Notre Dame,Baltimore_Ravens
+69,Tyler Ott,LS,6'3,252,31,Harvard,Baltimore_Ravens
+99,Jayson Oweh,LB,6'5,257,25,Penn State,Baltimore_Ravens
+53,Del'Shawn Phillips,LB,6'2,230,27,Illinois,Baltimore_Ravens
+58,Michael Pierce,DT,6'0,355,31,Samford,Baltimore_Ravens
+6,Patrick Queen,LB,6'0,237,24,Louisiana State,Baltimore_Ravens
+42,Patrick Ricard,RB,6'3,305,29,Maine,Baltimore_Ravens
+95,Tavius Robinson,LB,6'6,258,25,Mississippi,Baltimore_Ravens
+76,John Simpson,OG,6'4,330,26,Clemson,Baltimore_Ravens
+30,Trenton Simpson,LB,6'2,234,22,Clemson,Baltimore_Ravens
+0,Roquan Smith,LB,6'1,236,26,Georgia,Baltimore_Ravens
+79,Ronnie Stanley,OT,6'6,315,29,Notre Dame,Baltimore_Ravens
+21,Brandon Stephens,DB,6'1,215,26,Southern Methodist,Baltimore_Ravens
+26,Geno Stone,DB,5'11,209,24,Iowa,Baltimore_Ravens
+11,Jordan Stout,P,6'3,214,25,Penn State,Baltimore_Ravens
+18,Laquon Treadwell,WR,6'2,215,28,Mississippi,Baltimore_Ravens
+9,Justin Tucker,K,6'1,184,34,Texas,Baltimore_Ravens
+97,Brent Urban,DE,6'7,309,32,Virginia,Baltimore_Ravens
+50,Kyle Van Noy,LB,6'3,244,32,Brigham Young,Baltimore_Ravens
+16,Tylan Wallace,WR,5'11,198,24,Oklahoma State,Baltimore_Ravens
+96,Broderick Washington,DT,6'2,314,27,Texas Tech,Baltimore_Ravens
+22,Damarion Williams,DB,5'10,180,25,Houston,Baltimore_Ravens
+32,Marcus Williams,DB,6'1,207,27,Utah,Baltimore_Ravens
+23,Rock Ya-Sin,DB,6'0,192,27,Temple,Baltimore_Ravens
+70,Kevin Zeitler,OG,6'4,339,33,Wisconsin,Baltimore_Ravens
+89,Mark Andrews,TE,6'5,247,28,Oklahoma,Baltimore_Ravens
+5,Jalyn Armour-Davis,DB,6'1,195,24,Alabama,Baltimore_Ravens
+27,J.K. Dobbins,RB,5'10,212,25,Ohio State,Baltimore_Ravens
+13,Devin Duvernay,WR,5'11,202,26,Texas,Baltimore_Ravens
+59,Malik Hamm,LB,6'3,246,23,Lafayette,Baltimore_Ravens
+34,Keaton Mitchell,RB,5'8,186,21,East Carolina,Baltimore_Ravens
+90,David Ojabo,LB,6'4,255,23,Michigan,Baltimore_Ravens
+29,Ar'Darius Washington,DB,5'8,176,24,Texas Christian,Baltimore_Ravens
+41,Daryl Worley,DB,6'1,205,28,West Virginia,Baltimore_Ravens
+54,Tyus Bowser,LB,6'3,242,28,Houston,Baltimore_Ravens
+46,Nick Moore,LS,6'2,253,31,Georgia,Baltimore_Ravens
+##,Trayvon Mullen,DB,6'2,200,26,Clemson,Baltimore_Ravens
+72,Andrew Vorhees,OG,6'4,305,24,Southern California,Baltimore_Ravens
+17,Josh Allen,QB,6'5,237,27,Wyoming,Buffalo_Bills
+9,Kyle Allen,QB,6'3,210,27,Houston,Buffalo_Bills
+70,Alec Anderson,OT,6'5,305,24,UCLA,Buffalo_Bills
+2,Tyler Bass,K,5'10,183,26,Georgia Southern,Buffalo_Bills
+71,Ryan Bates,OG,6'4,302,26,Penn State,Buffalo_Bills
+47,Christian Benford,DB,6'1,205,23,Villanova,Buffalo_Bills
+43,Terrel Bernard,LB,6'1,224,24,Baylor,Buffalo_Bills
+79,Spencer Brown,OT,6'8,311,25,Northern Iowa,Buffalo_Bills
+4,James Cook,RB,5'11,190,24,Georgia,Buffalo_Bills
+13,Gabriel Davis,WR,6'2,210,24,Central Florida,Buffalo_Bills
+73,Dion Dawkins,OT,6'5,320,29,Temple,Buffalo_Bills
+14,Stefon Diggs,WR,6'0,191,30,Maryland,Buffalo_Bills
+25,Tyrel Dodson,LB,6'0,237,25,Texas A&M,Buffalo_Bills
+31,Rasul Douglas,DB,6'2,209,30,West Virginia,Buffalo_Bills
+76,David Edwards,OG,6'6,308,26,Wisconsin,Buffalo_Bills
+24,Kaiir Elam,DB,6'1,191,22,Florida,Buffalo_Bills
+57,A.J. Epenesa,DE,6'6,260,25,Iowa,Buffalo_Bills
+69,Reid Ferguson,LS,6'2,235,29,Louisiana State,Buffalo_Bills
+56,Leonard Floyd,DE,6'3,240,31,Georgia,Buffalo_Bills
+98,Poona Ford,DT,5'11,310,28,Texas,Buffalo_Bills
+5,Leonard Fournette,RB,6'0,228,28,Louisiana State,Buffalo_Bills
+41,Reggie Gilliam,RB,6'0,244,26,Toledo,Buffalo_Bills
+3,Damar Hamlin,DB,6'0,200,25,Pittsburgh,Buffalo_Bills
+11,Deonte Harty,WR,5'6,170,26,Assumption,Buffalo_Bills
+23,Micah Hyde,DB,6'0,197,33,Iowa,Buffalo_Bills
+30,Dane Jackson,DB,5'11,180,27,Pittsburgh,Buffalo_Bills
+7,Taron Johnson,DB,5'11,192,27,Weber State,Buffalo_Bills
+26,Ty Johnson,RB,5'10,210,26,Maryland,Buffalo_Bills
+59,Kingsley Jonathan,DE,6'4,260,25,Syracuse,Buffalo_Bills
+92,DaQuan Jones,DT,6'4,320,32,Penn State,Buffalo_Bills
+93,Linval Joseph,DT,6'4,328,35,East Carolina,Buffalo_Bills
+86,Dalton Kincaid,TE,6'4,240,24,Utah,Buffalo_Bills
+88,Dawson Knox,TE,6'4,254,27,Mississippi,Buffalo_Bills
+90,Shaq Lawson,DE,6'3,265,29,Clemson,Buffalo_Bills
+39,Cameron Lewis,DB,5'9,183,26,Buffalo,Buffalo_Bills
+8,Sam Martin,P,6'1,205,33,Appalachian State,Buffalo_Bills
+44,Tyler Matakevich,LB,6'1,235,31,Temple,Buffalo_Bills
+66,Connor McGovern,OG,6'5,316,26,Penn State,Buffalo_Bills
+40,Von Miller,LB,6'3,250,34,Texas A&M,Buffalo_Bills
+85,Quintin Morris,TE,6'2,252,24,Bowling Green,Buffalo_Bills
+60,Mitch Morse,C,6'6,305,31,Missouri,Buffalo_Bills
+28,Latavius Murray,RB,6'3,230,33,Central Florida,Buffalo_Bills
+33,Siran Neal,DB,6'0,206,29,Jacksonville State,Buffalo_Bills
+91,Ed Oliver,DT,6'1,287,26,Houston,Buffalo_Bills
+21,Jordan Poyer,DB,6'0,191,32,Oregon State,Buffalo_Bills
+20,Taylor Rapp,DB,6'0,208,26,Washington,Buffalo_Bills
+50,Gregory Rousseau,DE,6'6,266,23,Miami,Buffalo_Bills
+99,Tim Settle,DT,6'3,313,26,Virginia Tech,Buffalo_Bills
+10,Khalil Shakir,WR,6'0,190,23,Boise State,Buffalo_Bills
+16,Trent Sherfield,WR,6'1,205,27,Vanderbilt,Buffalo_Bills
+54,Baylon Spector,LB,6'0,233,25,Clemson,Buffalo_Bills
+64,O'Cyrus Torrence,OG,6'5,347,23,Florida,Buffalo_Bills
+74,Ryan Van Demark,OT,6'6,307,25,Connecticut,Buffalo_Bills
+42,Dorian Williams,LB,6'2,230,22,Tulane,Buffalo_Bills
+40,Zach Davidson,TE,6'7,245,--,Central Missouri State,Buffalo_Bills
+72,Tommy Doyle,OT,6'8,320,27,Miami (OH),Buffalo_Bills
+22,Damien Harris,RB,5'11,213,26,Alabama,Buffalo_Bills
+58,Matt Milano,LB,6'0,223,29,Boston College,Buffalo_Bills
+97,Jordan Phillips,DT,6'6,341,31,Oklahoma,Buffalo_Bills
+18,Justin Shorter,WR,6'4,223,23,Florida,Buffalo_Bills
+27,Tre'Davious White,DB,5'11,192,28,Louisiana State,Buffalo_Bills
+20,Nyheim Hines,RB,5'8,198,27,North Carolina State,Buffalo_Bills
+24,Vonn Bell,DB,5'11,205,29,Ohio State,Carolina_Panthers
+3,Raheem Blackshear,RB,5'9,190,24,Virginia Tech,Carolina_Panthers
+56,Bradley Bozeman,C,6'5,325,29,Alabama,Carolina_Panthers
+77,Deonte Brown,OG,6'4,335,25,Alabama,Carolina_Panthers
+95,Derrick Brown,DT,6'5,320,25,Auburn,Carolina_Panthers
+0,Brian Burns,LB,6'5,250,25,Florida State,Carolina_Panthers
+17,D.J. Chark,WR,6'3,200,27,Louisiana State,Carolina_Panthers
+21,Jeremy Chinn,DB,6'3,220,25,Southern Illinois,Carolina_Panthers
+27,Alex Cook,DB,6'1,196,24,Washington,Carolina_Panthers
+14,Andy Dalton,QB,6'2,220,36,Texas Christian,Carolina_Panthers
+33,Tae Davis,LB,6'0,222,27,Tennessee-Chattanooga,Carolina_Panthers
+65,J.D. DiRenzo,OG,6'6,315,25,Rutgers,Carolina_Panthers
+79,Ikem Ekwonu,OT,6'4,320,23,North Carolina State,Carolina_Panthers
+42,Sam Franklin,DB,6'3,210,27,Temple,Carolina_Panthers
+20,Shaquill Griffin,DB,6'0,198,28,Central Florida,Carolina_Panthers
+97,Yetur Gross-Matos,LB,6'5,265,25,Penn State,Carolina_Panthers
+54,Kamu Grugier-Hill,LB,6'2,220,29,Eastern Illinois,Carolina_Panthers
+98,Marquis Haynes,LB,6'2,235,30,Mississippi,Carolina_Panthers
+10,Johnny Hekker,P,6'5,225,33,Oregon State,Carolina_Panthers
+23,C.J. Henderson,DB,6'1,205,25,Florida,Carolina_Panthers
+13,Troy Hill,DB,5'10,182,32,Oregon,Carolina_Panthers
+8,Jaycee Horn,DB,6'1,200,24,South Carolina,Carolina_Panthers
+30,Chuba Hubbard,RB,6'1,210,24,Oklahoma State,Carolina_Panthers
+26,Donte Jackson,DB,5'10,180,28,Louisiana State,Carolina_Panthers
+69,Gabe Jackson,OG,6'3,336,32,Mississippi State,Carolina_Panthers
+29,D'Shawn Jamison,DB,5'9,186,24,Texas,Carolina_Panthers
+44,J.J. Jansen,LS,6'2,235,37,Notre Dame,Carolina_Panthers
+66,Nash Jensen,OG,6'4,328,24,North Dakota State,Carolina_Panthers
+52,D.J. Johnson,LB,6'4,260,25,Oregon,Carolina_Panthers
+40,Deion Jones,LB,6'1,222,28,Louisiana State,Carolina_Panthers
+61,Ricky Lee,OT,6'5,289,24,North Carolina A&T,Carolina_Panthers
+46,Eku Leota,LB,6'3,252,24,Auburn,Carolina_Panthers
+49,Frankie Luvu,LB,6'3,235,27,Washington State,Carolina_Panthers
+73,Ilm Manning,OT,6'2,294,24,Hawaii,Carolina_Panthers
+88,Terrace Marshall,WR,6'2,200,23,Louisiana State,Carolina_Panthers
+68,Cade Mays,OG,6'6,325,24,Tennessee,Carolina_Panthers
+72,Taylor Moton,OT,6'5,325,29,Western Michigan,Carolina_Panthers
+4,Eddy Pineiro,K,5'11,190,28,Florida,Carolina_Panthers
+93,LaBryan Ray,DT,6'4,290,26,Alabama,Carolina_Panthers
+22,Jammie Robinson,DB,5'11,190,22,Florida State,Carolina_Panthers
+6,Miles Sanders,RB,5'11,210,26,Penn State,Carolina_Panthers
+74,David Sharpe,OT,6'6,343,28,Florida,Carolina_Panthers
+11,Ihmir Smith-Marsette,WR,6'1,185,24,Iowa,Carolina_Panthers
+86,Mike Strachan,WR,6'5,225,26,Charleston,Carolina_Panthers
+84,Stephen Sullivan,TE,6'5,245,27,Louisiana State,Carolina_Panthers
+19,Adam Thielen,WR,6'2,195,33,Mankato State,Carolina_Panthers
+80,Ian Thomas,TE,6'4,260,27,Indiana,Carolina_Panthers
+91,Nick Thurman,DE,6'4,305,28,Houston,Carolina_Panthers
+82,Tommy Tremble,TE,6'4,250,23,Notre Dame,Carolina_Panthers
+99,Shy Tuttle,DT,6'3,300,28,Tennessee,Carolina_Panthers
+96,DeShawn Williams,DT,6'1,295,31,Clemson,Carolina_Panthers
+25,Xavier Woods,DB,5'11,200,28,Louisiana Tech,Carolina_Panthers
+71,Chris Wormley,DE,6'5,300,30,Michigan,Carolina_Panthers
+16,Matthew Wright,K,5'11,174,27,Central Florida,Carolina_Panthers
+9,Bryce Young,QB,5'10,204,22,Alabama,Carolina_Panthers
+94,Henry Anderson,DE,6'6,300,32,Stanford,Carolina_Panthers
+90,Amaré Barno,LB,6'6,245,24,Virginia Tech,Carolina_Panthers
+32,Dicaprio Bootle,DB,5'10,180,26,Nebraska,Carolina_Panthers
+53,Claudin Cherelus,LB,6'2,230,24,Alcorn State,Carolina_Panthers
+70,Brady Christensen,OG,6'6,300,27,Brigham Young,Carolina_Panthers
+63,Austin Corbett,OG,6'4,305,28,Nevada,Carolina_Panthers
+81,Hayden Hurst,TE,6'4,245,30,South Carolina,Carolina_Panthers
+67,Justin McCray,OG,6'3,320,31,Central Florida,Carolina_Panthers
+15,Jonathan Mingo,WR,6'2,220,22,Mississippi,Carolina_Panthers
+45,Giovanni Ricci,TE,6'3,240,27,Western Michigan,Carolina_Panthers
+5,Laviska Shenault,WR,6'1,220,25,Colorado,Carolina_Panthers
+7,Shaq Thompson,LB,6'0,230,29,Washington,Carolina_Panthers
+43,Luiji Vilain,LB,6'4,252,25,Wake Forest,Carolina_Panthers
+57,Chandler Wooten,LB,6'3,230,24,Auburn,Carolina_Panthers
+62,Chandler Zavala,OG,6'3,322,24,North Carolina State,Carolina_Panthers
+17,Tyson Bagent,QB,6'3,213,23,Shepherd,Chicago_Bears
+97,Andrew Billings,DT,6'1,311,28,Baylor,Chicago_Bears
+39,Josh Blackwell,DB,5'11,180,24,Duke,Chicago_Bears
+35,Khari Blasingame,RB,6'0,233,27,Vanderbilt,Chicago_Bears
+75,Larry Borom,OT,6'5,333,24,Missouri,Chicago_Bears
+9,Jaquan Brisker,DB,6'1,200,24,Penn State,Chicago_Bears
+69,Ja'Tyre Carter,OG,6'3,311,24,Southern,Chicago_Bears
+55,Dylan Cole,LB,6'0,240,29,Missouri State,Chicago_Bears
+64,Nate Davis,OG,6'3,316,27,North Carolina-Charlotte,Chicago_Bears
+99,Gervon Dexter,DT,6'6,312,22,Florida,Chicago_Bears
+49,Tremaine Edmunds,LB,6'5,250,25,Virginia Tech,Chicago_Bears
+53,T.J. Edwards,LB,6'1,242,27,Wisconsin,Chicago_Bears
+67,Dan Feeney,OG,6'4,310,29,Indiana,Chicago_Bears
+1,Justin Fields,QB,6'3,228,24,Ohio State,Chicago_Bears
+21,D'Onta Foreman,RB,6'0,235,27,Texas,Chicago_Bears
+16,Trenton Gill,P,6'4,219,25,North Carolina State,Chicago_Bears
+6,Kyler Gordon,DB,6'0,200,24,Washington,Chicago_Bears
+94,Rasheem Green,DE,6'4,279,26,Southern California,Chicago_Bears
+24,Khalil Herbert,RB,5'9,212,25,Virginia Tech,Chicago_Bears
+22,Elijah Hicks,DB,5'11,200,26,California,Chicago_Bears
+20,Travis Homer,RB,5'10,202,25,Miami,Chicago_Bears
+4,Eddie Jackson,DB,6'0,206,31,Alabama,Chicago_Bears
+76,Teven Jenkins,OG,6'6,321,25,Oklahoma State,Chicago_Bears
+80,Collin Johnson,WR,6'6,222,26,Texas,Chicago_Bears
+33,Jaylon Johnson,DB,6'0,196,24,Utah,Chicago_Bears
+26,Quindell Johnson,DB,6'2,208,24,Memphis,Chicago_Bears
+23,Roschon Johnson,RB,6'0,225,22,Texas,Chicago_Bears
+70,Braxton Jones,OT,6'5,310,24,Southern Utah,Chicago_Bears
+31,Jaylon Jones,DB,5'11,190,24,Mississippi,Chicago_Bears
+93,Justin Jones,DT,6'3,309,27,North Carolina State,Chicago_Bears
+12,Velus Jones,WR,6'0,200,26,Tennessee,Chicago_Bears
+85,Cole Kmet,TE,6'6,260,24,Notre Dame,Chicago_Bears
+68,Doug Kramer,C,6'2,300,25,Illinois,Chicago_Bears
+84,Marcedes Lewis,TE,6'6,265,39,UCLA,Chicago_Bears
+46,Christian Matthew,DB,6'2,195,27,Valdosta State,Chicago_Bears
+11,Darnell Mooney,WR,5'11,173,26,Tulane,Chicago_Bears
+2,D.J. Moore,WR,5'11,210,26,Maryland,Chicago_Bears
+14,Nathan Peterman,QB,6'2,225,29,Pittsburgh,Chicago_Bears
+96,Zacch Pickens,DT,6'4,300,23,South Carolina,Chicago_Bears
+90,Dominique Robinson,LB,6'5,253,25,Miami (OH),Chicago_Bears
+57,Jack Sanborn,LB,6'2,234,23,Wisconsin,Chicago_Bears
+8,Cairo Santos,K,5'8,175,32,Tulane,Chicago_Bears
+48,Patrick Scales,LS,6'3,226,35,Utah State,Chicago_Bears
+13,Tyler Scott,WR,5'11,185,22,Cincinnati,Chicago_Bears
+44,Noah Sewell,LB,6'2,253,22,Oregon,Chicago_Bears
+32,Terell Smith,DB,6'0,207,24,Minnesota,Chicago_Bears
+19,Equanimeous St. Brown,WR,6'5,214,27,Notre Dame,Chicago_Bears
+29,Tyrique Stevenson,DB,6'0,204,23,Miami,Chicago_Bears
+27,Greg Stroman,DB,5'11,180,27,Virginia Tech,Chicago_Bears
+98,Montez Sweat,DE,6'6,262,27,Mississippi State,Chicago_Bears
+15,Trent Taylor,WR,5'8,178,29,Louisiana Tech,Chicago_Bears
+18,Robert Tonyan,TE,6'5,200,29,Indiana State,Chicago_Bears
+95,DeMarcus Walker,DE,6'4,280,29,Florida State,Chicago_Bears
+65,Cody Whitehair,OG,6'3,316,31,Kansas State,Chicago_Bears
+58,Darnell Wright,OT,6'6,335,22,Tennessee,Chicago_Bears
+91,Yannick Ngakoue,DE,6'2,246,28,Maryland,Chicago_Bears
+62,Lucas Patrick,C,6'3,313,30,Duke,Chicago_Bears
+80,Joe Reed,WR,6'0,224,26,Virginia,Chicago_Bears
+48,Cal Adomitis,LS,6'2,238,25,Pittsburgh,Cincinnati_Bengals
+22,Chidobe Awuzie,DB,6'0,202,28,Colorado,Cincinnati_Bengals
+49,Joe Bachie,LB,6'2,235,25,Michigan State,Cincinnati_Bengals
+51,Markus Bailey,LB,6'0,235,26,Purdue,Cincinnati_Bengals
+27,Jordan Battle,DB,6'1,206,23,Alabama,Cincinnati_Bengals
+90,Travis Bell,DT,6'1,305,25,Kennesaw State,Cincinnati_Bengals
+83,Tyler Boyd,WR,6'2,203,31,Pittsburgh,Cincinnati_Bengals
+30,Chase Brown,RB,5'9,215,23,Illinois,Cincinnati_Bengals
+75,Orlando Brown,OT,6'8,345,27,Oklahoma,Cincinnati_Bengals
+6,Jake Browning,QB,6'2,209,27,Washington,Cincinnati_Bengals
+65,Alex Cappa,OG,6'6,310,28,Humboldt State,Cincinnati_Bengals
+79,Jackson Carman,OT,6'5,322,23,Clemson,Cincinnati_Bengals
+95,Zachary Carter,DT,6'4,290,24,Florida,Cincinnati_Bengals
+1,Ja'Marr Chase,WR,6'0,201,23,Louisiana State,Cincinnati_Bengals
+59,Akeem Davis,LB,6'2,228,26,Appalachian State,Cincinnati_Bengals
+35,Jalen Davis,DB,5'10,190,27,Utah State,Cincinnati_Bengals
+25,Chris Evans,RB,5'11,215,26,Michigan,Cincinnati_Bengals
+61,Cody Ford,OG,6'3,329,27,Oklahoma,Cincinnati_Bengals
+56,Devin Harper,LB,6'0,238,25,Oklahoma State,Cincinnati_Bengals
+91,Trey Hendrickson,DE,6'4,270,29,Florida Atlantic,Cincinnati_Bengals
+5,Tee Higgins,WR,6'4,219,24,Clemson,Cincinnati_Bengals
+92,B.J. Hill,DT,6'3,311,28,North Carolina State,Cincinnati_Bengals
+23,Daxton Hill,DB,6'0,191,23,Michigan,Cincinnati_Bengals
+63,Trey Hill,C,6'4,335,--,Georgia,Cincinnati_Bengals
+21,Mike Hilton,DB,5'9,184,29,Mississippi,Cincinnati_Bengals
+94,Sam Hubbard,DE,6'5,265,28,Ohio State,Cincinnati_Bengals
+87,Tanner Hudson,TE,6'5,239,29,Southern Arkansas,Cincinnati_Bengals
+80,Andrei Iosivas,WR,6'3,212,24,Princeton,Cincinnati_Bengals
+16,Trenton Irwin,WR,6'2,200,28,Stanford,Cincinnati_Bengals
+15,Charlie Jones,WR,6'0,188,25,Purdue,Cincinnati_Bengals
+24,Sidney Jones,DB,6'0,181,27,Washington,Cincinnati_Bengals
+64,Ted Karras,C,6'4,310,30,Illinois,Cincinnati_Bengals
+4,A.J. McCarron,QB,6'3,220,33,Alabama,Cincinnati_Bengals
+2,Evan McPherson,K,5'11,185,--,Florida,Cincinnati_Bengals
+28,Joe Mixon,RB,6'1,220,27,Oklahoma,Cincinnati_Bengals
+17,Stanley Morgan,WR,6'0,205,27,Nebraska,Cincinnati_Bengals
+99,Myles Murphy,DE,6'5,275,22,Clemson,Cincinnati_Bengals
+58,Joseph Ossai,DE,6'4,263,23,Texas,Cincinnati_Bengals
+57,Germaine Pratt,LB,6'3,250,27,North Carolina State,Cincinnati_Bengals
+10,Brad Robbins,P,6'1,203,25,Michigan,Cincinnati_Bengals
+96,Cameron Sample,DE,6'3,272,--,Tulane,Cincinnati_Bengals
+89,Drew Sample,TE,6'5,255,27,Washington,Cincinnati_Bengals
+74,Max Scharping,OG,6'6,325,27,Northern Illinois,Cincinnati_Bengals
+33,Nick Scott,DB,5'11,200,28,Penn State,Cincinnati_Bengals
+70,D'Ante Smith,OT,6'5,309,--,East Carolina,Cincinnati_Bengals
+81,Irv Smith,TE,6'2,240,25,Alabama,Cincinnati_Bengals
+29,Cam Taylor-Britt,DB,5'11,202,24,Nebraska,Cincinnati_Bengals
+97,Jay Tufele,DT,6'3,305,24,Southern California,Cincinnati_Bengals
+68,Josh Tupou,DT,6'3,340,29,Colorado,Cincinnati_Bengals
+20,DJ Turner,DB,6'0,180,23,Michigan,Cincinnati_Bengals
+67,Cordell Volson,OG,6'6,315,25,North Dakota State,Cincinnati_Bengals
+84,Mitchell Wilcox,TE,6'4,250,27,South Florida,Cincinnati_Bengals
+73,Jonah Williams,OT,6'5,312,26,Alabama,Cincinnati_Bengals
+32,Trayveon Williams,RB,5'8,206,26,Texas A&M,Cincinnati_Bengals
+55,Logan Wilson,LB,6'2,245,27,Wyoming,Cincinnati_Bengals
+26,Tycen Anderson,DB,6'2,209,24,Toledo,Cincinnati_Bengals
+9,Joe Burrow,QB,6'4,215,27,Louisiana State,Cincinnati_Bengals
+76,Devin Cochran,OT,6'7,310,25,Georgia Tech,Cincinnati_Bengals
+38,DJ Ivey,DB,6'1,195,23,Miami,Cincinnati_Bengals
+69,Devonnsha Maxwell,DT,6'2,297,24,Tennessee-Chattanooga,Cincinnati_Bengals
+98,D.J. Reader,DT,6'3,335,29,Clemson,Cincinnati_Bengals
+40,Matthew Adams,LB,6'0,230,28,Houston,Cleveland_Browns
+84,Jordan Akins,TE,6'3,250,31,Central Florida,Cleveland_Browns
+37,D'Anthony Bell,DB,6'1,211,27,West Florida,Cleveland_Browns
+18,David Bell,WR,6'1,212,23,Purdue,Cleveland_Browns
+75,Joel Bitonio,OG,6'4,320,32,Nevada,Cleveland_Browns
+13,Corey Bojorquez,P,6'0,208,27,New Mexico,Cleveland_Browns
+88,Harrison Bryant,TE,6'5,230,25,Florida Atlantic,Cleveland_Browns
+64,Geron Christian,OT,6'5,315,27,Louisville,Cleveland_Browns
+2,Amari Cooper,WR,6'1,210,29,Alabama,Cleveland_Browns
+43,Mohamoud Diabate,LB,6'4,225,22,Utah,Cleveland_Browns
+12,Jeff Driskel,QB,6'4,231,30,Louisiana Tech,Cleveland_Browns
+68,Michael Dunn,OG,6'5,315,29,Maryland,Cleveland_Browns
+96,Jordan Elliott,DT,6'4,303,26,Missouri,Cleveland_Browns
+23,Martin Emerson,DB,6'2,201,23,Mississippi State,Cleveland_Browns
+42,Tony Fields,LB,6'0,222,24,West Virginia,Cleveland_Browns
+15,Joe Flacco,QB,6'6,230,38,Delaware,Cleveland_Browns
+34,Jerome Ford,RB,5'10,210,24,Cincinnati,Cleveland_Browns
+28,Mike Ford,DB,6'0,194,28,Southeast Missouri State,Cleveland_Browns
+95,Myles Garrett,DE,6'4,272,28,Texas A&M,Cleveland_Browns
+3,Marquise Goodwin,WR,5'9,179,33,Texas,Cleveland_Browns
+31,Vincent Gray,DB,6'2,192,24,Michigan,Cleveland_Browns
+25,Kahlef Hailassie,DB,6'1,195,23,Western Kentucky,Cleveland_Browns
+30,Duron Harmon,DB,6'0,205,32,Rutgers,Cleveland_Browns
+53,Nick Harris,C,6'1,293,25,Washington,Cleveland_Browns
+93,Shelby Harris,DT,6'2,288,32,Illinois State,Cleveland_Browns
+33,Ronnie Hickman,DB,6'1,209,22,Ohio State,Cleveland_Browns
+7,Dustin Hopkins,K,6'2,193,33,Florida State,Cleveland_Browns
+66,James Hudson,OT,6'5,313,24,Cincinnati,Cleveland_Browns
+47,Charley Hughlett,LS,6'4,248,33,Central Florida,Cleveland_Browns
+27,Kareem Hunt,RB,5'11,216,28,Toledo,Cleveland_Browns
+62,Siaki Ika,DT,6'4,358,23,Baylor,Cleveland_Browns
+92,Sam Kamara,DE,6'2,275,26,Stony Brook,Cleveland_Browns
+51,Jordan Kunaszyk,LB,6'3,235,27,California,Cleveland_Browns
+57,Isaiah McGuire,DE,6'4,271,22,Missouri,Cleveland_Browns
+29,Cameron Mitchell,DB,6'0,195,22,Northwestern,Cleveland_Browns
+8,Elijah Moore,WR,5'10,178,23,Mississippi,Cleveland_Browns
+0,Greg Newsome,DB,6'0,192,23,Northwestern,Cleveland_Browns
+85,David Njoku,TE,6'4,246,27,Miami,Cleveland_Browns
+54,Ogbonnia Okoronkwo,DE,6'2,250,28,Oklahoma,Cleveland_Browns
+6,Jeremiah Owusu-Koramoah,LB,6'2,221,24,Notre Dame,Cleveland_Browns
+36,Riley Patterson,K,6'0,190,--,Memphis,Cleveland_Browns
+55,Ethan Pocic,C,6'6,309,28,Louisiana State,Cleveland_Browns
+11,James Proche,WR,5'11,193,27,Southern Methodist,Cleveland_Browns
+99,Za'Darius Smith,DE,6'4,275,31,Kentucky,Cleveland_Browns
+20,Pierre Strong,RB,5'11,215,25,South Dakota State,Cleveland_Browns
+44,Sione Takitaki,LB,6'1,238,28,Brigham Young,Cleveland_Browns
+77,Wyatt Teller,OG,6'4,314,29,Virginia Tech,Cleveland_Browns
+1,Juan Thornhill,DB,6'0,205,28,Virginia,Cleveland_Browns
+19,Cedric Tillman,WR,6'3,215,23,Tennessee,Cleveland_Browns
+94,Dalvin Tomlinson,DT,6'3,317,29,Alabama,Cleveland_Browns
+10,Phillip Walker,QB,5'11,215,28,Temple,Cleveland_Browns
+21,Denzel Ward,DB,5'11,190,26,Ohio State,Cleveland_Browns
+69,Leroy Watson,OT,6'5,310,25,Texas-San Antonio,Cleveland_Browns
+91,Alex Wright,DE,6'5,267,23,Alabama-Birmingham,Cleveland_Browns
+56,Luke Wypler,C,6'3,300,22,Ohio State,Cleveland_Browns
+24,Nick Chubb,RB,5'11,227,28,Georgia,Cleveland_Browns
+78,Jack Conklin,OT,6'6,308,29,Michigan State,Cleveland_Browns
+52,Dawson Deaton,OG,6'5,306,24,Texas Tech,Cleveland_Browns
+22,Grant Delpit,DB,6'3,208,25,Louisiana State,Cleveland_Browns
+9,Jakeem Grant,WR,5'7,172,31,Texas Tech,Cleveland_Browns
+90,Maurice Hurst,DT,6'1,291,28,Michigan,Cleveland_Browns
+79,Dawand Jones,OT,6'8,375,22,Ohio State,Cleveland_Browns
+26,Rodney McLeod,DB,5'10,183,33,Virginia,Cleveland_Browns
+50,Jacob Phillips,LB,6'3,228,24,Louisiana State,Cleveland_Browns
+17,Dorian Thompson-Robinson,QB,6'1,191,24,UCLA,Cleveland_Browns
+5,Anthony Walker,LB,6'1,235,28,Northwestern,Cleveland_Browns
+4,Deshaun Watson,QB,6'2,215,28,Clemson,Cleveland_Browns
+71,Jedrick Wills,OT,6'4,307,24,Alabama,Cleveland_Browns
+70,Drew Forbes,OG,6'5,308,26,Southeast Missouri State,Cleveland_Browns
+12,Michael Woods,WR,6'1,204,23,Oklahoma,Cleveland_Browns
+5,Bryan Anger,P,6'3,202,35,California,Dallas_Cowboys
+92,Dorance Armstrong,DE,6'4,255,26,Kansas,Dallas_Cowboys
+17,Brandon Aubrey,K,6'3,200,28,Notre Dame,Dallas_Cowboys
+66,T.J. Bass,OG,6'4,325,24,Oregon,Dallas_Cowboys
+14,Markquese Bell,DB,6'3,205,25,Florida A&M,Dallas_Cowboys
+63,Tyler Biadasz,C,6'3,316,26,Wisconsin,Dallas_Cowboys
+26,DaRon Bland,DB,6'0,197,24,Fresno State,Dallas_Cowboys
+83,Jalen Brooks,WR,6'2,205,23,South Carolina,Dallas_Cowboys
+33,Damone Clark,LB,6'3,240,23,Louisiana State,Dallas_Cowboys
+3,Brandin Cooks,WR,5'10,189,30,Oregon State,Dallas_Cowboys
+23,Rico Dowdle,RB,6'0,215,25,South Carolina,Dallas_Cowboys
+71,Chuma Edoga,OG,6'3,308,26,Southern California,Dallas_Cowboys
+93,Junior Fehoko,DE,6'4,267,24,San Jose State,Dallas_Cowboys
+87,Jake Ferguson,TE,6'5,244,24,Wisconsin,Dallas_Cowboys
+56,Dante Fowler Jr.,DE,6'3,261,29,Florida,Dallas_Cowboys
+96,Neville Gallimore,DT,6'2,302,26,Oklahoma,Dallas_Cowboys
+13,Michael Gallup,WR,6'1,198,27,Colorado State,Dallas_Cowboys
+21,Stephon Gilmore,DB,6'0,190,33,South Carolina,Dallas_Cowboys
+99,Chauncey Golston,DE,6'5,268,25,Iowa,Dallas_Cowboys
+95,Johnathan Hankins,DT,6'2,320,31,Ohio State,Dallas_Cowboys
+89,Peyton Hendershot,TE,6'4,254,24,Indiana,Dallas_Cowboys
+67,Brock Hoffman,C,6'4,302,24,Virginia Tech,Dallas_Cowboys
+28,Malik Hooker,DB,6'2,212,27,Ohio State,Dallas_Cowboys
+19,Noah Igbinoghene,DB,5'11,197,24,Auburn,Dallas_Cowboys
+57,Buddy Johnson,LB,6'2,240,24,Texas A&M,Dallas_Cowboys
+1,Jayron Kearse,DB,6'4,215,29,Clemson,Dallas_Cowboys
+88,CeeDee Lamb,WR,6'2,200,24,Oklahoma,Dallas_Cowboys
+15,Trey Lance,QB,6'4,226,23,North Dakota State,Dallas_Cowboys
+90,Demarcus Lawrence,DE,6'3,265,31,Boise State,Dallas_Cowboys
+2,Jourdan Lewis,DB,5'10,195,28,Michigan,Dallas_Cowboys
+40,Hunter Luepke,RB,6'1,238,23,North Dakota State,Dallas_Cowboys
+70,Zack Martin,OG,6'4,315,33,Notre Dame,Dallas_Cowboys
+24,Israel Mukuamu,DB,6'4,205,24,South Carolina,Dallas_Cowboys
+97,Osa Odighizuwa,DT,6'2,280,25,UCLA,Dallas_Cowboys
+11,Micah Parsons,LB,6'3,245,24,Penn State,Dallas_Cowboys
+20,Tony Pollard,RB,6'0,209,26,Memphis,Dallas_Cowboys
+4,Dak Prescott,QB,6'2,238,30,Mississippi State,Dallas_Cowboys
+27,Sheldrick Redwine,DB,6'0,196,27,Miami,Dallas_Cowboys
+76,Asim Richards,OT,6'4,307,23,North Carolina,Dallas_Cowboys
+10,Cooper Rush,QB,6'3,225,30,Central Michigan,Dallas_Cowboys
+86,Luke Schoonmaker,TE,6'5,250,25,Michigan,Dallas_Cowboys
+37,Eric Scott,DB,6'0,197,24,Southern Mississippi,Dallas_Cowboys
+44,Trent Sieg,LS,6'3,240,28,Colorado State,Dallas_Cowboys
+58,Mazi Smith,DT,6'3,337,22,Michigan,Dallas_Cowboys
+73,Tyler Smith,OT,6'6,332,22,Tulsa,Dallas_Cowboys
+77,Tyron Smith,OT,6'5,320,33,Southern California,Dallas_Cowboys
+78,Terence Steele,OT,6'6,310,26,Texas Tech,Dallas_Cowboys
+30,Juanyeh Thomas,DB,6'3,217,23,Georgia Tech,Dallas_Cowboys
+18,Jalen Tolbert,WR,6'1,195,24,South Alabama,Dallas_Cowboys
+9,KaVontae Turpin,WR,5'9,153,27,Texas Christian,Dallas_Cowboys
+79,Matt Waletzko,OT,6'8,305,24,North Dakota,Dallas_Cowboys
+91,Tyrus Wheat,DE,6'2,260,24,Mississippi State,Dallas_Cowboys
+54,Sam Williams,DE,6'4,261,24,Mississippi,Dallas_Cowboys
+6,Donovan Wilson,DB,6'0,204,28,Texas A&M,Dallas_Cowboys
+25,Nahshon Wright,DB,6'4,185,25,Oregon State,Dallas_Cowboys
+75,Josh Ball,OT,6'8,304,25,Marshall,Dallas_Cowboys
+7,Trevon Diggs,DB,6'2,195,25,Alabama,Dallas_Cowboys
+85,David Durden,WR,6'2,200,25,West Florida,Dallas_Cowboys
+29,C.J. Goodwin,DB,6'3,190,33,California (PA),Dallas_Cowboys
+84,Sean McKeon,TE,6'5,238,26,Michigan,Dallas_Cowboys
+35,DeMarvion Overshown,LB,6'2,220,23,Texas,Dallas_Cowboys
+49,John Stephens,WR,6'5,221,24,Louisiana-Lafayette,Dallas_Cowboys
+55,Leighton Vander Esch,LB,6'4,256,26,Boise State,Dallas_Cowboys
+42,Deuce Vaughn,RB,5'6,176,22,Kansas State,Dallas_Cowboys
+45,Nate Adkins,TE,6'3,252,24,South Carolina,Denver_Broncos
+99,Zach Allen,DE,6'5,285,26,Boston College,Denver_Broncos
+75,Quinn Bailey,OT,6'6,323,28,Arizona State,Denver_Broncos
+83,Michael Bandy,WR,5'10,190,26,San Diego,Denver_Broncos
+72,Garett Bolles,OT,6'5,300,31,Utah,Denver_Broncos
+42,Nik Bonitto,LB,6'3,240,24,Oklahoma,Denver_Broncos
+56,Baron Browning,LB,6'3,240,24,Ohio State,Denver_Broncos
+20,Michael Burton,RB,6'0,247,31,Rutgers,Denver_Broncos
+0,Jonathon Cooper,LB,6'4,257,--,Ohio State,Denver_Broncos
+79,Lloyd Cushenberry,C,6'4,315,26,Louisiana State,Denver_Broncos
+9,Riley Dixon,P,6'4,221,30,Syracuse,Denver_Broncos
+73,Cameron Fleming,OT,6'5,320,31,Stanford,Denver_Broncos
+76,Alex Forsyth,C,6'4,312,24,Oregon,Denver_Broncos
+48,MItchell Fraboni,LS,6'2,223,--,Arizona State,Denver_Broncos
+95,Elijah Garcia,DT,6'5,302,25,Rice,Denver_Broncos
+28,Art Green,DB,6'1,201,23,Houston,Denver_Broncos
+92,Jonathan Harris,DL,6'5,295,27,Lindenwood,Denver_Broncos
+91,Matt Henningsen,DE,6'3,291,24,Wisconsin,Denver_Broncos
+17,Lil'Jordan Humphrey,WR,6'4,225,25,Texas,Denver_Broncos
+59,Thomas Incoom,LB,6'2,265,24,Central Michigan,Denver_Broncos
+10,Jerry Jeudy,WR,6'1,193,24,Alabama,Denver_Broncos
+47,Josey Jewell,LB,6'2,236,29,Iowa,Denver_Broncos
+89,Brandon Johnson,WR,6'2,195,25,Central Florida,Denver_Broncos
+93,D.J. Jones,DT,6'0,305,29,Mississippi,Denver_Broncos
+26,Devon Key,DB,6'0,208,--,Western Kentucky,Denver_Broncos
+85,Lucas Krull,TE,6'6,260,25,Pittsburgh,Denver_Broncos
+6,P.J. Locke,DB,5'10,202,26,Texas,Denver_Broncos
+16,Wil Lutz,K,5'11,184,29,Georgia State,Denver_Broncos
+84,Chris Manhertz,TE,6'6,235,31,Canisius,Denver_Broncos
+27,Damarri Mathis,DB,5'11,195,24,Pittsburgh,Denver_Broncos
+38,Jaleel McLaughlin,RB,5'7,187,23,Youngstown State,Denver_Broncos
+29,Ja'Quan McMillian,DB,5'10,183,23,East Carolina,Denver_Broncos
+77,Quinn Meinerz,OG,6'3,320,25,Wisconsin-Whitewater,Denver_Broncos
+19,Marvin Mims,WR,5'11,182,21,Oklahoma,Denver_Broncos
+23,Fabian Moreau,DB,6'0,198,29,UCLA,Denver_Broncos
+37,Riley Moss,DB,6'0,193,23,Iowa,Denver_Broncos
+57,Ben Niemann,LB,6'2,235,28,Iowa,Denver_Broncos
+63,Alex Palczewski,OT,6'6,314,24,Illinois,Denver_Broncos
+25,Samaje Perine,RB,5'10,236,28,Oklahoma,Denver_Broncos
+74,Ben Powers,OG,6'4,310,27,Oklahoma,Denver_Broncos
+98,Mike Purcell,DT,6'3,328,32,Wyoming,Denver_Broncos
+41,Drew Sanders,LB,6'5,233,23,Arkansas,Denver_Broncos
+31,Justin Simmons,DB,6'2,202,30,Boston College,Denver_Broncos
+49,Alex Singleton,LB,6'2,240,30,Montana State,Denver_Broncos
+34,JL Skinner,DB,6'4,220,22,Boise State,Denver_Broncos
+1,Tremon Smith,DB,6'0,190,27,Central Arkansas,Denver_Broncos
+4,Jarrett Stidham,QB,6'3,215,27,Auburn,Denver_Broncos
+40,Justin Strnad,LB,6'3,235,27,Wake Forest,Denver_Broncos
+2,Patrick Surtain,DB,6'2,202,23,Alabama,Denver_Broncos
+14,Courtland Sutton,WR,6'4,216,28,Southern Methodist,Denver_Broncos
+82,Adam Trautman,TE,6'5,253,26,Dayton,Denver_Broncos
+60,Luke Wattenberg,C,6'5,300,26,Washington,Denver_Broncos
+33,Javonte Williams,RB,5'10,220,23,North Carolina,Denver_Broncos
+3,Russell Wilson,QB,5'11,215,35,Wisconsin,Denver_Broncos
+80,Greg Dulcich,TE,6'4,245,23,UCLA,Denver_Broncos
+50,Jonas Griffith,LB,6'4,250,--,Indiana State,Denver_Broncos
+69,Mike McGlinchey,OT,6'8,315,29,Notre Dame,Denver_Broncos
+81,Tim Patrick,WR,6'4,212,30,Utah,Denver_Broncos
+30,Caden Sterns,DB,6'1,207,--,Texas,Denver_Broncos
+32,Delarrin Turner-Yell,DB,5'11,200,24,Oklahoma,Denver_Broncos
+15,Jalen Virgil,WR,6'1,210,25,Appalachian State,Denver_Broncos
+8,K'Waun Williams,DB,5'9,185,32,Pittsburgh,Denver_Broncos
+39,Dwayne Washington,RB,6'1,223,29,Washington,Denver_Broncos
+96,Eyioma Uwazurike,DT,6'6,320,25,Iowa State,Denver_Broncos
+92,Tyson Alualu,DE,6'3,304,36,California,Detroit_Lions
+34,Alex Anzalone,LB,6'3,237,29,Florida,Detroit_Lions
+74,Kayode Awosika,OG,6'3,312,25,Buffalo,Detroit_Lions
+17,Michael Badgley,K,5'10,183,28,Miami,Detroit_Lions
+55,Derrick Barnes,LB,6'0,238,24,Purdue,Detroit_Lions
+32,Brian Branch,DB,6'0,203,22,Alabama,Detroit_Lions
+10,Teddy Bridgewater,QB,6'2,210,31,Louisville,Detroit_Lions
+45,Jason Cabinda,RB,6'1,238,27,Penn State,Detroit_Lions
+46,Jack Campbell,LB,6'5,249,23,Iowa,Detroit_Lions
+79,John Cominsky,DE,6'5,285,28,Charleston,Detroit_Lions
+68,Taylor Decker,OT,6'7,320,29,Ohio State,Detroit_Lions
+30,Khalil Dorsey,DB,5'9,181,25,Northern Arizona,Detroit_Lions
+3,Jack Fox,P,6'2,215,27,Rice,Detroit_Lions
+2,Chauncey Gardner-Johnson,DB,5'11,208,26,Florida,Detroit_Lions
+26,Jahmyr Gibbs,RB,5'9,200,21,Alabama,Detroit_Lions
+24,Steven Gilmore,DB,5'8,174,24,Marshall,Detroit_Lions
+60,Graham Glasgow,OG,6'6,308,31,Michigan,Detroit_Lions
+16,Jared Goff,QB,6'4,217,29,California,Detroit_Lions
+80,Antoine Green,WR,6'2,199,24,North Carolina,Detroit_Lions
+53,Charles Harris,LB,6'3,250,28,Missouri,Detroit_Lions
+25,William Harris,DB,6'1,206,28,Boston College,Detroit_Lions
+12,Hendon Hooker,QB,6'3,221,25,Tennessee,Detroit_Lions
+97,Aidan Hutchinson,DE,6'7,264,23,Michigan,Detroit_Lions
+73,Jonah Jackson,OG,6'4,311,26,Ohio State,Detroit_Lions
+23,Jerry Jacobs,DB,5'11,203,26,Arkansas,Detroit_Lions
+94,Benito Jones,DT,6'1,318,26,Mississippi,Detroit_Lions
+31,Kerby Joseph,DB,6'1,203,23,Illinois,Detroit_Lions
+87,Sam LaPorta,TE,6'3,245,22,Iowa,Detroit_Lions
+98,Brodric Martin,DT,6'5,330,24,Western Kentucky,Detroit_Lions
+54,Alim McNeill,DT,6'2,325,23,North Carolina State,Detroit_Lions
+43,Jake McQuaide,LS,6'2,247,36,Ohio State,Detroit_Lions
+6,Ifeatu Melifonwu,DB,6'3,210,24,Syracuse,Detroit_Lions
+82,James Mitchell,TE,6'4,249,24,Virginia Tech,Detroit_Lions
+5,David Montgomery,RB,5'10,222,26,Iowa State,Detroit_Lions
+99,Julian Okwara,LB,6'4,239,26,Notre Dame,Detroit_Lions
+95,Romeo Okwara,DL,6'4,255,28,Notre Dame,Detroit_Lions
+91,Levi Onwuzurike,DE,6'3,295,25,Washington,Detroit_Lions
+93,Joshua Paschal,DE,6'3,274,24,Kentucky,Detroit_Lions
+19,Donovan Peoples-Jones,WR,6'2,212,24,Michigan,Detroit_Lions
+57,Anthony Pittman,LB,6'3,242,27,Wayne State (MI),Detroit_Lions
+77,Frank Ragnow,C,6'5,309,27,Arkansas,Detroit_Lions
+11,Kalif Raymond,WR,5'8,180,29,Holy Cross,Detroit_Lions
+42,Jalen Reeves-Maybin,LB,6'0,230,28,Tennessee,Detroit_Lions
+13,Craig Reynolds,RB,5'11,216,27,Kutztown,Detroit_Lions
+8,Josh Reynolds,WR,6'3,194,28,Texas A&M,Detroit_Lions
+44,Malcolm Rodriguez,LB,5'11,230,24,Oklahoma State,Detroit_Lions
+58,Penei Sewell,OT,6'5,335,23,Oregon,Detroit_Lions
+70,Dan Skipper,OT,6'9,315,29,Arkansas,Detroit_Lions
+75,Colby Sorsdal,OT,6'6,304,23,William & Mary,Detroit_Lions
+14,Amon-Ra St. Brown,WR,6'0,202,24,Southern California,Detroit_Lions
+1,Cameron Sutton,DB,5'11,188,28,Tennessee,Detroit_Lions
+29,Kindle Vildor,DB,5'11,183,26,Georgia Southern,Detroit_Lions
+21,Tracy Walker,DB,6'1,206,28,Louisiana-Lafayette,Detroit_Lions
+9,Jameson Williams,WR,6'1,180,22,Alabama,Detroit_Lions
+89,Brock Wright,TE,6'5,255,25,Notre Dame,Detroit_Lions
+47,Scott Daly,LS,6'1,245,29,Notre Dame,Detroit_Lions
+41,James Houston,LB,6'1,241,25,Jackson State,Detroit_Lions
+28,Zonovan Knight,RB,5'11,210,22,North Carolina State,Detroit_Lions
+4,Emmanuel Moseley,DB,5'11,184,27,Tennessee,Detroit_Lions
+67,Matt Nelson,OT,6'7,318,28,Iowa,Detroit_Lions
+10,Nate Sudfeld,QB,6'6,227,30,Indiana,Detroit_Lions
+72,Halapoulivaati Vaitai,OG,6'6,328,30,Texas Christian,Detroit_Lions
+84,Shane Zylstra,TE,6'4,239,27,Minnesota State,Detroit_Lions
+23,Jaire Alexander,DB,5'10,196,26,Louisville,Green_Bay_Packers
+39,Zayne Anderson,DB,6'2,206,--,Brigham Young,Green_Bay_Packers
+35,Corey Ballentine,DB,5'11,196,27,Washburn,Green_Bay_Packers
+94,Karl Brooks,DE,6'3,296,23,Bowling Green,Green_Bay_Packers
+59,De'Vondre Campbell,LB,6'3,232,30,Minnesota,Green_Bay_Packers
+17,Anders Carlson,K,6'5,219,25,Auburn,Green_Bay_Packers
+97,Kenny Clark,DT,6'3,314,28,UCLA,Green_Bay_Packers
+8,Sean Clifford,QB,6'2,218,25,Penn State,Green_Bay_Packers
+57,Brenton Cox,LB,6'4,250,23,Florida,Green_Bay_Packers
+81,Josiah Deguara,TE,6'2,238,26,Cincinnati,Green_Bay_Packers
+28,AJ Dillon,RB,6'0,247,25,Boston College,Green_Bay_Packers
+87,Romeo Doubs,WR,6'2,204,23,Nevada,Green_Bay_Packers
+86,Grant DuBose,WR,6'2,201,22,North Carolina-Charlotte,Green_Bay_Packers
+55,Kingsley Enagbare,LB,6'4,258,23,South Carolina,Green_Bay_Packers
+52,Rashan Gary,LB,6'5,277,26,Michigan,Green_Bay_Packers
+18,Malik Heath,WR,6'2,213,23,Mississippi,Green_Bay_Packers
+74,Elgton Jenkins,OG,6'5,311,28,Mississippi State,Green_Bay_Packers
+36,Anthony Johnson,DB,6'0,205,24,Iowa State,Green_Bay_Packers
+33,Aaron Jones,RB,5'9,208,29,Texas-El Paso,Green_Bay_Packers
+72,Caleb Jones,OT,6'9,370,24,Indiana,Green_Bay_Packers
+85,Tucker Kraft,TE,6'5,259,23,South Dakota State,Green_Bay_Packers
+10,Jordan Love,QB,6'4,219,25,Utah State,Green_Bay_Packers
+58,Isaiah McDuffie,LB,6'1,227,24,Boston College,Green_Bay_Packers
+80,Bo Melton,WR,5'11,189,24,Rutgers,Green_Bay_Packers
+88,Luke Musgrave,TE,6'6,253,23,Oregon State,Green_Bay_Packers
+71,Josh Myers,C,6'5,310,25,Ohio State,Green_Bay_Packers
+70,Royce Newman,OG,6'5,310,26,Mississippi,Green_Bay_Packers
+73,Yosuah Nijman,OT,6'7,314,28,Virginia Tech,Green_Bay_Packers
+25,Keisean Nixon,DB,5'10,200,26,South Carolina,Green_Bay_Packers
+42,Matt Orzech,LS,6'3,245,28,Azusa Pacific,Green_Bay_Packers
+34,Jonathan Owens,DB,5'11,210,28,Missouri Western State,Green_Bay_Packers
+11,Jayden Reed,WR,5'11,187,23,Michigan State,Green_Bay_Packers
+75,Sean Rhyan,OG,6'5,321,23,UCLA,Green_Bay_Packers
+22,Robert Rochell,DB,6'0,193,--,Central Arkansas,Green_Bay_Packers
+76,Jon Runyan,OG,6'4,307,26,Michigan,Green_Bay_Packers
+48,Benny Sapp,DB,5'11,200,23,Northern Iowa,Green_Bay_Packers
+26,Darnell Savage,DB,5'11,198,26,Maryland,Green_Bay_Packers
+89,Ben Sims,TE,6'5,250,23,Baylor,Green_Bay_Packers
+93,Tedarrell Slaton,DT,6'4,330,26,Florida,Green_Bay_Packers
+91,Preston Smith,LB,6'5,265,31,Mississippi State,Green_Bay_Packers
+27,Patrick Taylor,RB,6'2,217,25,Memphis,Green_Bay_Packers
+50,Zach Tom,C,6'4,304,24,Wake Forest,Green_Bay_Packers
+37,Carrington Valentine,DB,6'0,189,22,Kentucky,Green_Bay_Packers
+90,Lukas Van Ness,LB,6'5,272,22,Iowa,Green_Bay_Packers
+7,Quay Walker,LB,6'4,241,23,Georgia,Green_Bay_Packers
+63,Rasheed Walker,OT,6'6,324,23,Penn State,Green_Bay_Packers
+9,Christian Watson,WR,6'4,208,24,North Dakota State,Green_Bay_Packers
+54,Kristian Welch,LB,6'3,240,25,Iowa,Green_Bay_Packers
+19,Daniel Whelan,P,6'5,216,24,California-Davis,Green_Bay_Packers
+13,Dontayvion Wicks,WR,6'1,206,22,Virginia,Green_Bay_Packers
+31,Emanuel Wilson,RB,5'10,226,24,Fort Valley State,Green_Bay_Packers
+45,Eric Wilson,LB,6'1,230,29,Cincinnati,Green_Bay_Packers
+96,Colby Wooden,DE,6'4,273,23,Auburn,Green_Bay_Packers
+95,Devonte Wyatt,DT,6'3,304,25,Georgia,Green_Bay_Packers
+69,David Bakhtiari,OT,6'4,310,32,Colorado,Green_Bay_Packers
+84,Tyler Davis,TE,6'4,252,26,Georgia Tech,Green_Bay_Packers
+20,Johnathan Ford,DB,6'0,210,29,Auburn,Green_Bay_Packers
+21,Eric Stokes,DB,6'0,194,24,Georgia,Green_Bay_Packers
+78,Luke Tenuta,OT,6'8,314,24,Virginia Tech,Green_Bay_Packers
+83,Samori Toure,WR,6'1,191,25,Nebraska,Green_Bay_Packers
+0,Adrian Amos,DB,6'0,218,30,Penn State,Houston_Texans
+51,Will Anderson,DE,6'4,243,22,Alabama,Houston_Texans
+95,Derek Barnett,DE,6'3,259,27,Tennessee,Houston_Texans
+47,Andrew Beck,RB,6'3,255,27,Texas,Houston_Texans
+17,Kris Boyd,DB,5'11,200,27,Texas,Houston_Texans
+64,Nick Broeker,OG,6'4,305,23,Mississippi,Houston_Texans
+85,Noah Brown,WR,6'2,225,26,Ohio State,Houston_Texans
+53,Blake Cashman,LB,6'1,237,27,Minnesota,Houston_Texans
+96,Maliek Collins,DT,6'2,310,28,Nebraska,Houston_Texans
+12,Nico Collins,WR,6'4,215,24,Michigan,Houston_Texans
+94,Khalil Davis,DT,6'1,308,27,Nebraska,Houston_Texans
+63,Michael Deiter,C,6'6,315,27,Wisconsin,Houston_Texans
+60,Dieter Eiselen,OG,6'4,320,27,Yale,Houston_Texans
+15,Ka'imi Fairbairn,K,6'0,183,29,UCLA,Houston_Texans
+77,George Fant,OT,6'5,322,31,Western Kentucky,Houston_Texans
+52,Jonathan Greenard,DE,6'3,263,26,Florida,Houston_Texans
+35,Jake Hansen,LB,6'1,235,25,Illinois,Houston_Texans
+48,Christian Harris,LB,6'1,226,22,Alabama,Houston_Texans
+67,Charlie Heck,OT,6'8,311,27,North Carolina,Houston_Texans
+43,Neville Hewitt,LB,6'2,235,30,Marshall,Houston_Texans
+93,Kurt Hinish,DT,6'2,300,24,Notre Dame,Houston_Texans
+20,Ka'dar Hollman,DB,6'0,196,29,Toledo,Houston_Texans
+30,DeAndre Houston-Carson,DB,6'1,203,30,William & Mary,Houston_Texans
+55,Jerry Hughes,DE,6'2,254,35,Texas Christian,Houston_Texans
+19,Xavier Hutchinson,WR,6'2,207,23,Iowa State,Houston_Texans
+22,Kareem Jackson,DB,5'10,196,35,Alabama,Houston_Texans
+88,Johnny Johnson,WR,6'1,199,24,Oregon,Houston_Texans
+11,Cameron Johnston,P,5'11,194,31,Ohio State,Houston_Texans
+74,Josh Jones,OT,6'5,319,26,Houston,Houston_Texans
+9,Brevin Jordan,TE,6'3,245,--,Miami,Houston_Texans
+18,Case Keenum,QB,6'1,206,35,Houston,Houston_Texans
+25,Desmond King,DB,5'10,200,29,Iowa,Houston_Texans
+69,Shaquille Mason,OG,6'1,310,30,Georgia Tech,Houston_Texans
+8,John Metchie,WR,5'11,187,23,Alabama,Houston_Texans
+10,Davis Mills,QB,6'4,225,25,Stanford,Houston_Texans
+21,Steven Nelson,DB,5'11,194,30,Oregon State,Houston_Texans
+33,Dare Ogunbowale,RB,5'11,205,29,Wisconsin,Houston_Texans
+6,Denzel Perryman,LB,5'11,240,30,Miami,Houston_Texans
+31,Dameon Pierce,RB,5'10,218,23,Florida,Houston_Texans
+5,Jalen Pitre,DB,5'11,198,24,Baylor,Houston_Texans
+98,Sheldon Rankins,DT,6'3,305,29,Louisville,Houston_Texans
+37,D'Angelo Ross,DB,5'9,190,27,New Mexico,Houston_Texans
+41,Myjai Sanders,DE,6'5,248,25,Cincinnati,Houston_Texans
+81,Eric Saubert,TE,6'5,248,29,Drake,Houston_Texans
+86,Dalton Schultz,TE,6'5,244,27,Stanford,Houston_Texans
+70,Juice Scruggs,OG,6'3,308,23,Penn State,Houston_Texans
+26,Devin Singletary,RB,5'7,203,26,Florida Atlantic,Houston_Texans
+24,Derek Stingley,DB,6'0,190,22,Louisiana State,Houston_Texans
+7,C.J. Stroud,QB,6'3,218,22,Ohio State,Houston_Texans
+97,Teair Tart,DT,6'2,304,26,Florida International,Houston_Texans
+39,Henry To'o To'o,LB,6'2,228,23,Alabama,Houston_Texans
+78,Laremy Tunsil,OT,6'5,313,29,Mississippi,Houston_Texans
+46,Jonathan Weeks,LS,5'10,242,37,Baylor,Houston_Texans
+2,Robert Woods,WR,6'0,195,31,Southern California,Houston_Texans
+25,Grayland Arnold,DB,5'10,187,26,Baylor,Houston_Texans
+3,Nathaniel Dell,WR,5'10,165,24,Houston,Houston_Texans
+50,Kendrick Green,C,6'4,315,25,Illinois,Houston_Texans
+59,Kenyon Green,OG,6'4,323,22,Texas A&M,Houston_Texans
+34,Troy Hairston,RB,5'11,245,25,Central Michigan,Houston_Texans
+71,Tytus Howard,OT,6'5,322,27,Alabama State,Houston_Texans
+41,Jesse Matthews,WR,6'0,190,24,San Diego State,Houston_Texans
+23,Eric Murray,DB,5'11,199,30,Minnesota,Houston_Texans
+68,Jarrett Patterson,C,6'5,304,24,Notre Dame,Houston_Texans
+54,Scott Quessenberry,C,6'3,310,28,UCLA,Houston_Texans
+84,Teagan Quitoriano,TE,6'6,258,23,Oregon State,Houston_Texans
+91,Hassan Ridgeway,DT,6'3,305,29,Texas,Houston_Texans
+--,DJ Scaife,OT,6'3,321,23,Miami,Houston_Texans
+29,M.J. Stewart,DB,5'11,200,28,North Carolina,Houston_Texans
+4,Tavierre Thomas,DB,5'10,205,27,Ferris State,Houston_Texans
+1,Jimmie Ward,DB,5'11,195,32,Northern Illinois,Houston_Texans
+66,Kilian Zierer,OT,6'7,312,23,Auburn,Houston_Texans
+92,Dylan Horton,DE,6'4,275,23,Texas Christian,Houston_Texans
+95,Adetomiwa Adebawore,DT,6'2,282,22,Northwestern,Indianapolis_Colts
+81,Mo Alie-Cox,TE,6'5,267,30,Virginia Commonwealth,Indianapolis_Colts
+67,Jack Anderson,C,6'4,314,25,Texas Tech,Indianapolis_Colts
+39,Darrell Baker,DB,6'1,190,25,Georgia Southern,Indianapolis_Colts
+38,Henry Black,DB,6'0,204,27,Baylor,Indianapolis_Colts
+29,Julius Brents,DB,6'3,198,23,Kansas State,Indianapolis_Colts
+96,Taven Bryan,DT,6'4,291,27,Florida,Indianapolis_Colts
+99,DeForest Buckner,DT,6'7,295,29,Oregon,Indianapolis_Colts
+20,Nick Cross,DB,6'0,212,22,Maryland,Indianapolis_Colts
+43,Trevor Denbow,DB,5'10,208,25,Southern Methodist,Indianapolis_Colts
+1,Josh Downs,WR,5'10,175,22,North Carolina,Indianapolis_Colts
+52,Samson Ebukam,DE,6'3,240,28,Eastern Washington,Indianapolis_Colts
+4,Sam Ehlinger,QB,6'1,222,25,Texas,Indianapolis_Colts
+44,Zaire Franklin,LB,6'0,235,27,Syracuse,Indianapolis_Colts
+73,Blake Freeland,OT,6'7,302,22,Brigham Young,Indianapolis_Colts
+62,Wesley French,C,6'4,307,27,Western Michigan,Indianapolis_Colts
+75,Will Fries,OG,6'6,309,25,Penn State,Indianapolis_Colts
+7,Matt Gay,K,6'0,232,29,Utah,Indianapolis_Colts
+31,Tyler Goodson,RB,5'9,197,23,Iowa,Indianapolis_Colts
+83,Kylen Granson,TE,6'2,242,25,Southern Methodist,Indianapolis_Colts
+48,Ronnie Harrison,LB,6'2,207,26,Alabama,Indianapolis_Colts
+93,Eric Johnson,DT,6'4,299,25,Missouri State,Indianapolis_Colts
+40,Jaylon Jones,DB,6'2,205,21,Texas A&M,Indianapolis_Colts
+78,Ryan Kelly,C,6'4,307,30,Alabama,Indianapolis_Colts
+35,Chris Lammons,DB,5'10,190,27,South Carolina,Indianapolis_Colts
+55,Isaiah Land,DE,6'4,225,23,Florida A&M,Indianapolis_Colts
+94,Tyquan Lewis,DE,6'3,277,28,Ohio State,Indianapolis_Colts
+86,Will Mallory,TE,6'4,239,24,Miami,Indianapolis_Colts
+92,Jacob Martin,DE,6'2,242,28,Temple,Indianapolis_Colts
+59,Cameron McGrone,LB,6'1,236,23,Michigan,Indianapolis_Colts
+10,Gardner Minshew,QB,6'1,225,27,Washington State,Indianapolis_Colts
+2,D.J. Montgomery,WR,6'1,201,27,Austin Peay,Indianapolis_Colts
+23,Kenny Moore,DB,5'9,190,28,Valdosta State,Indianapolis_Colts
+21,Zack Moss,RB,5'9,205,26,Utah,Indianapolis_Colts
+56,Quenton Nelson,OG,6'5,330,27,Notre Dame,Indianapolis_Colts
+54,Dayo Odeyingbo,DE,6'6,276,24,Vanderbilt,Indianapolis_Colts
+50,Segun Olubi,LB,6'2,220,24,San Diego State,Indianapolis_Colts
+51,Kwity Paye,DE,6'2,261,25,Michigan,Indianapolis_Colts
+14,Alec Pierce,WR,6'3,211,23,Cincinnati,Indianapolis_Colts
+11,Michael Pittman,WR,6'4,223,26,Southern California,Indianapolis_Colts
+79,Bernhard Raimann,OT,6'6,303,26,Central Michigan,Indianapolis_Colts
+46,Luke Rhodes,LS,6'2,238,31,William & Mary,Indianapolis_Colts
+8,Rigoberto Sanchez,P,6'0,195,29,Hawaii,Indianapolis_Colts
+27,Trey Sermon,RB,6'0,215,24,Ohio State,Indianapolis_Colts
+65,Josh Sills,OG,6'6,325,25,Oklahoma State,Indianapolis_Colts
+72,Braden Smith,OT,6'6,315,27,Auburn,Indianapolis_Colts
+37,Ameer Speed,DB,6'3,215,24,Michigan State,Indianapolis_Colts
+45,E.J. Speed,LB,6'3,224,28,Tarleton State,Indianapolis_Colts
+90,Grover Stewart,DT,6'4,315,30,Albany State,Indianapolis_Colts
+41,Grant Stuard,LB,5'11,230,--,Houston,Indianapolis_Colts
+28,Jonathan Taylor,RB,5'10,226,24,Wisconsin,Indianapolis_Colts
+25,Rodney Thomas,DB,6'1,196,25,Yale,Indianapolis_Colts
+9,Juwann Winfree,WR,6'3,215,27,Colorado,Indianapolis_Colts
+92,Genard Avery,LB,6'0,250,28,Memphis,Indianapolis_Colts
+32,Julian Blackmon,DB,6'0,187,25,Utah,Indianapolis_Colts
+16,Ashton Dulin,WR,6'1,215,26,Malone (OH),Indianapolis_Colts
+33,Dallis Flowers,DB,6'1,196,26,Pittsburg State,Indianapolis_Colts
+26,Evan Hull,RB,5'10,214,23,Northwestern,Indianapolis_Colts
+91,Titus Leo,DE,6'3,243,24,Wagner,Indianapolis_Colts
+63,Danny Pinter,OG,6'4,306,27,Ball State,Indianapolis_Colts
+5,Anthony Richardson,QB,6'4,244,21,Florida,Indianapolis_Colts
+31,Daniel Scott,DB,6'1,208,25,California,Indianapolis_Colts
+76,Jake Witt,OT,6'7,302,23,Northern Michigan,Indianapolis_Colts
+80,Jelani Woods,TE,6'7,253,25,Virginia,Indianapolis_Colts
+38,Tony Brown,DB,6'0,198,28,Alabama,Indianapolis_Colts
+6,Isaiah McKenzie,WR,5'8,173,28,Georgia,Indianapolis_Colts
+85,Andrew Ogletree,TE,6'5,260,25,Youngstown State,Indianapolis_Colts
+56,Yasir Abdullah,LB,6'1,234,23,Louisville,Jacksonville_Jaguars
+41,Josh Allen,LB,6'5,255,26,Kentucky,Jacksonville_Jaguars
+19,Matt Barkley,QB,6'2,227,33,Southern California,Jacksonville_Jaguars
+3,C.J. Beathard,QB,6'2,215,30,Iowa,Jacksonville_Jaguars
+4,Cartavious Bigsby,RB,6'0,213,22,Auburn,Jacksonville_Jaguars
+90,Angelo Blackson,DT,6'4,318,31,Auburn,Jacksonville_Jaguars
+30,Montaric Brown,DB,6'0,190,24,Arkansas,Jacksonville_Jaguars
+32,Tyson Campbell,DB,6'1,195,23,Georgia,Jacksonville_Jaguars
+45,K'Lavon Chaisson,LB,6'3,245,24,Louisiana State,Jacksonville_Jaguars
+5,Andre Cisco,DB,6'0,210,23,Syracuse,Jacksonville_Jaguars
+76,Ezra Cleveland,OG,6'6,311,25,Boise State,Jacksonville_Jaguars
+9,Logan Cooke,P,6'5,230,28,Mississippi State,Jacksonville_Jaguars
+14,Elijah Cooks,WR,6'4,215,25,San Jose State,Jacksonville_Jaguars
+17,Evan Engram,TE,6'3,240,29,Mississippi,Jacksonville_Jaguars
+1,Travis Etienne,RB,5'10,215,24,Clemson,Jacksonville_Jaguars
+89,Luke Farrell,TE,6'5,250,26,Ohio State,Jacksonville_Jaguars
+94,Folorunso Fatukasi,DT,6'4,318,28,Connecticut,Jacksonville_Jaguars
+79,Luke Fortner,C,6'6,307,25,Kentucky,Jacksonville_Jaguars
+96,Adam Gotsis,DE,6'4,290,31,Georgia Tech,Jacksonville_Jaguars
+52,Davon Hamilton,DT,6'4,335,26,Ohio State,Jacksonville_Jaguars
+73,Blake Hance,OT,6'5,310,27,Northwestern,Jacksonville_Jaguars
+77,Anton Harrison,OT,6'5,315,21,Oklahoma,Jacksonville_Jaguars
+37,Tre Herndon,DB,5'11,190,27,Vanderbilt,Jacksonville_Jaguars
+2,Rayshawn Jenkins,DB,6'1,200,29,Miami,Jacksonville_Jaguars
+26,Antonio Johnson,DB,6'3,195,22,Texas A&M,Jacksonville_Jaguars
+57,Caleb Johnson,LB,6'2,220,25,Houston Baptist,Jacksonville_Jaguars
+25,D'Ernest Johnson,RB,5'10,208,27,South Florida,Jacksonville_Jaguars
+15,Tim Jones,WR,6'1,200,25,Southern Mississippi,Jacksonville_Jaguars
+7,Zay Jones,WR,6'2,200,28,East Carolina,Jacksonville_Jaguars
+34,Gregory Junior,DB,6'0,190,24,Ouachita Baptist,Jacksonville_Jaguars
+13,Christian Kirk,WR,5'11,200,27,Texas A&M,Jacksonville_Jaguars
+93,Tyler Lacy,DE,6'4,285,24,Oklahoma State,Jacksonville_Jaguars
+16,Trevor Lawrence,QB,6'6,220,24,Clemson,Jacksonville_Jaguars
+99,Jeremiah Ledbetter,DT,6'3,299,28,Arkansas,Jacksonville_Jaguars
+72,Walker Little,OT,6'7,325,24,Stanford,Jacksonville_Jaguars
+33,Devin Lloyd,LB,6'3,235,25,Utah,Jacksonville_Jaguars
+46,Ross Matiscik,LS,6'0,240,27,Baylor,Jacksonville_Jaguars
+10,Brandon McManus,K,6'3,201,32,Temple,Jacksonville_Jaguars
+48,Chad Muma,LB,6'3,239,24,Wyoming,Jacksonville_Jaguars
+23,Foyesade Oluokun,LB,6'2,230,28,Yale,Jacksonville_Jaguars
+50,Shaquille Quarterman,LB,6'0,240,26,Miami,Jacksonville_Jaguars
+0,Calvin Ridley,WR,6'1,190,29,Alabama,Jacksonville_Jaguars
+95,Roy Robertson-Harris,DE,6'5,290,30,Texas-El Paso,Jacksonville_Jaguars
+74,Cam Robinson,OT,6'6,335,28,Alabama,Jacksonville_Jaguars
+68,Brandon Scherff,OG,6'5,315,32,Iowa,Jacksonville_Jaguars
+69,Tyler Shatley,C,6'3,305,32,Clemson,Jacksonville_Jaguars
+91,Dawuane Smoot,LB,6'3,275,28,Illinois,Jacksonville_Jaguars
+85,Brenton Strange,TE,6'3,247,23,Penn State,Jacksonville_Jaguars
+70,Cole Van Lanen,OG,6'4,312,25,Wisconsin,Jacksonville_Jaguars
+44,Travon Walker,LB,6'5,272,23,Georgia,Jacksonville_Jaguars
+11,Parker Washington,WR,5'10,212,21,Penn State,Jacksonville_Jaguars
+31,Darious Williams,DB,5'9,187,30,Alabama-Birmingham,Jacksonville_Jaguars
+42,Andrew Wingard,DB,6'0,200,27,Wyoming,Jacksonville_Jaguars
+39,Jamal Agnew,WR,5'10,190,28,San Diego,Jacksonville_Jaguars
+21,Christian Braswell,DB,5'10,181,24,Rutgers,Jacksonville_Jaguars
+75,Cooper Hodges,OT,6'3,311,23,Appalachian State,Jacksonville_Jaguars
+51,Ventrell Miller,LB,6'0,221,24,Florida,Jacksonville_Jaguars
+83,Jaylon Moore,WR,5'11,198,26,Tennessee-Martin,Jacksonville_Jaguars
+20,Daniel Thomas,DB,5'10,215,25,Auburn,Jacksonville_Jaguars
+73,Nick Allegretti,OG,6'4,310,27,Illinois,Kansas_City_Chiefs
+97,Felix Anudike,DE,6'4,255,21,Kansas State,Kansas_City_Chiefs
+81,Blake Bell,TE,6'6,252,32,Oklahoma,Kansas_City_Chiefs
+32,Nick Bolton,LB,5'11,237,23,Missouri,Kansas_City_Chiefs
+40,Ekow Boye-Doe,DB,6'0,171,24,Kansas State,Kansas_City_Chiefs
+26,Deon Bush,DB,6'0,200,30,Miami,Kansas_City_Chiefs
+7,Harrison Butker,K,6'4,199,28,Georgia Tech,Kansas_City_Chiefs
+66,Mike Caliendo,OG,6'4,301,26,Western Michigan,Kansas_City_Chiefs
+54,Leo Chenal,LB,6'3,250,23,Wisconsin,Kansas_City_Chiefs
+43,Jack Cochrane,LB,6'3,236,24,South Dakota,Kansas_City_Chiefs
+27,Chamarri Conner,DB,6'0,206,23,Virginia Tech,Kansas_City_Chiefs
+51,Mike Danna,DE,6'2,257,26,Michigan,Kansas_City_Chiefs
+93,Matt Dickerson,DT,6'5,292,28,UCLA,Kansas_City_Chiefs
+21,Mike Edwards,DB,5'10,205,27,Kentucky,Kansas_City_Chiefs
+25,Clyde Edwards-Helaire,RB,5'7,207,24,Louisiana State,Kansas_City_Chiefs
+92,Neil Farrell,DE,6'4,325,25,Louisiana State,Kansas_City_Chiefs
+9,Blaine Gabbert,QB,6'4,233,34,Missouri,Kansas_City_Chiefs
+50,Willie Gay,LB,6'1,243,25,Mississippi State,Kansas_City_Chiefs
+83,Noah Gray,TE,6'3,240,24,Duke,Kansas_City_Chiefs
+12,Mecole Hardman,WR,5'10,187,25,Georgia,Kansas_City_Chiefs
+94,Malik Herring,DE,6'3,275,--,Georgia,Kansas_City_Chiefs
+52,Creed Humphrey,C,6'4,302,24,Oklahoma,Kansas_City_Chiefs
+17,Richie James,WR,5'9,185,28,Middle Tennessee State,Kansas_City_Chiefs
+44,Cam Jones,LB,6'1,227,24,Indiana,Kansas_City_Chiefs
+95,Chris Jones,DT,6'6,310,29,Mississippi State,Kansas_City_Chiefs
+31,Nic Jones,DB,6'0,189,22,Ball State,Kansas_City_Chiefs
+56,George Karlaftis,DE,6'4,263,22,Purdue,Kansas_City_Chiefs
+87,Travis Kelce,TE,6'5,250,34,Cincinnati,Kansas_City_Chiefs
+15,Patrick Mahomes,QB,6'2,225,28,Texas Tech,Kansas_City_Chiefs
+22,Trent McDuffie,DB,5'11,193,23,Washington,Kansas_City_Chiefs
+64,Wanya Morris,OT,6'5,317,23,Oklahoma,Kansas_City_Chiefs
+77,Lucas Niang,OT,6'6,315,25,Texas Christian,Kansas_City_Chiefs
+91,Derrick Nnadi,DT,6'1,317,27,Florida State,Kansas_City_Chiefs
+13,Chris Oladokun,QB,6'2,195,26,South Dakota State,Kansas_City_Chiefs
+90,Charles Omenihu,DE,6'5,280,26,Texas,Kansas_City_Chiefs
+10,Isiah Pacheco,RB,5'10,216,24,Rutgers,Kansas_City_Chiefs
+29,Lamical Perine,RB,5'11,216,25,Florida,Kansas_City_Chiefs
+20,Justin Reid,DB,6'1,207,26,Stanford,Kansas_City_Chiefs
+4,Rashee Rice,WR,6'2,203,23,Southern Methodist,Kansas_City_Chiefs
+8,Justyn Ross,WR,6'4,210,24,Clemson,Kansas_City_Chiefs
+79,Donovan Smith,OT,6'6,338,30,Penn State,Kansas_City_Chiefs
+65,Trey Smith,OG,6'6,321,24,Tennessee,Kansas_City_Chiefs
+38,L'Jarius Sneed,DB,6'1,192,26,Louisiana Tech,Kansas_City_Chiefs
+74,Jawaan Taylor,OT,6'5,312,26,Florida,Kansas_City_Chiefs
+53,BJ Thompson,DE,6'6,240,24,Stephen F. Austin,Kansas_City_Chiefs
+62,Joe Thuney,OG,6'5,304,31,North Carolina State,Kansas_City_Chiefs
+19,Kadarius Toney,WR,6'0,193,24,Florida,Kansas_City_Chiefs
+5,Tommy Townsend,P,6'1,191,27,Florida,Kansas_City_Chiefs
+23,Drue Tranquill,LB,6'2,228,28,Notre Dame,Kansas_City_Chiefs
+11,Marquez Valdes-Scantling,WR,6'4,206,29,South Florida,Kansas_City_Chiefs
+35,Jaylen Watson,DB,6'2,197,25,Washington State,Kansas_City_Chiefs
+84,Justin Watson,WR,6'2,215,28,Pennsylvania,Kansas_City_Chiefs
+98,Tershawn Wharton,DT,6'1,280,25,Missouri-Rolla,Kansas_City_Chiefs
+2,Joshua Williams,DB,6'3,193,24,Fayetteville State,Kansas_City_Chiefs
+41,James Winchester,LS,6'3,209,34,Oklahoma,Kansas_City_Chiefs
+6,Bryan Cook,DB,6'1,206,24,Cincinnati,Kansas_City_Chiefs
+88,Joe Fortson,TE,6'4,226,28,Valdosta State,Kansas_City_Chiefs
+13,Nazeeh Johnson,DB,5'10,199,25,Marshall,Kansas_City_Chiefs
+1,Jerick McKinnon,RB,5'9,209,31,Georgia Southern,Kansas_City_Chiefs
+24,Skyy Moore,WR,5'10,195,23,Western Michigan,Kansas_City_Chiefs
+27,Nikko Remigio,WR,5'9,183,24,Fresno State,Kansas_City_Chiefs
+76,Prince Tega Wanogho,OT,6'5,308,26,Auburn,Kansas_City_Chiefs
+13,Keenan Allen,WR,6'2,211,31,California,Los_Angeles_Chargers
+27,Essang Bassey,DB,5'10,190,25,Wake Forest,Los_Angeles_Chargers
+12,Derius Davis,WR,5'8,168,23,Texas Christian,Los_Angeles_Chargers
+43,Michael Davis,DB,6'2,196,29,Brigham Young,Los_Angeles_Chargers
+11,Cameron Dicker,K,6'1,216,23,Texas,Los_Angeles_Chargers
+86,Keelan Doss,WR,6'3,215,27,California-Davis,Los_Angeles_Chargers
+30,Austin Ekeler,RB,5'10,200,28,Western State,Los_Angeles_Chargers
+82,Alex Erickson,WR,6'0,195,31,Wisconsin,Los_Angeles_Chargers
+7,Gerald Everett,TE,6'3,250,29,South Alabama,Los_Angeles_Chargers
+92,Andrew Farmer,LB,6'4,250,23,Lane,Los_Angeles_Chargers
+24,A.J. Finley,DB,6'0,188,22,Mississippi,Los_Angeles_Chargers
+56,Morgan Fox,DE,6'3,275,29,Colorado State-Pueblo,Los_Angeles_Chargers
+32,Alohi Gilman,DB,5'10,201,26,Notre Dame,Los_Angeles_Chargers
+4,Will Grier,QB,6'1,220,28,West Virginia,Los_Angeles_Chargers
+15,Jalen Guyton,WR,6'1,212,26,North Texas,Los_Angeles_Chargers
+47,Josh Harris,LS,6'1,224,34,Auburn,Los_Angeles_Chargers
+37,Jaylinn Hawkins,DB,6'1,208,26,California,Los_Angeles_Chargers
+0,Daiyan Henley,LB,6'1,230,24,Washington State,Los_Angeles_Chargers
+91,Chris Hinton,DT,6'4,310,23,Michigan,Los_Angeles_Chargers
+64,Brenden Jaimes,OG,6'5,300,24,Nebraska,Los_Angeles_Chargers
+3,Derwin James,DB,6'2,215,27,Florida State,Los_Angeles_Chargers
+98,Austin Johnson,DT,6'4,314,29,Penn State,Los_Angeles_Chargers
+77,Zion Johnson,OG,6'3,316,24,Boston College,Los_Angeles_Chargers
+1,Quentin Johnston,WR,6'4,215,22,Texas Christian,Los_Angeles_Chargers
+25,Joshua Kelley,RB,5'11,212,26,UCLA,Los_Angeles_Chargers
+6,Eric Kendricks,LB,6'0,232,31,UCLA,Los_Angeles_Chargers
+33,Deane Leonard,DB,6'0,195,24,Mississippi,Los_Angeles_Chargers
+53,Blake Lynch,LB,6'3,225,26,Baylor,Los_Angeles_Chargers
+52,Khalil Mack,LB,6'3,269,32,Buffalo,Los_Angeles_Chargers
+20,Dean Marlowe,DB,6'1,205,31,James Madison,Los_Angeles_Chargers
+99,Scott Matlock,DT,6'4,308,23,Boise State,Los_Angeles_Chargers
+71,Jordan McFadden,OG,6'2,295,24,Clemson,Los_Angeles_Chargers
+9,Kenneth Murray,LB,6'2,241,25,Oklahoma,Los_Angeles_Chargers
+31,Nick Niemann,LB,6'3,244,26,Iowa,Los_Angeles_Chargers
+57,Amen Ogbongbemiga,LB,6'0,231,25,Oklahoma State,Los_Angeles_Chargers
+93,Otito Ogbonnia,DT,6'4,320,23,UCLA,Los_Angeles_Chargers
+5,Josh Palmer,WR,6'1,210,24,Tennessee,Los_Angeles_Chargers
+89,Donald Parham,TE,6'8,237,26,Stetson,Los_Angeles_Chargers
+79,Trey Pipkins,OT,6'6,307,27,Sioux Falls,Los_Angeles_Chargers
+75,Austen Pleasants,OT,6'7,330,26,Ohio,Los_Angeles_Chargers
+68,Jamaree Salyer,OG,6'4,325,23,Georgia,Los_Angeles_Chargers
+26,Asante Samuel,DB,5'10,180,24,Florida State,Los_Angeles_Chargers
+73,Foster Sarell,OT,6'6,322,25,Stanford,Los_Angeles_Chargers
+16,JK Scott,P,6'5,208,28,Alabama,Los_Angeles_Chargers
+59,Ty Shelby,LB,6'3,249,25,Louisiana-Monroe,Los_Angeles_Chargers
+70,Rashawn Slater,OT,6'4,315,24,Northwestern,Los_Angeles_Chargers
+84,Stone Smartt,TE,6'4,226,25,Old Dominion,Los_Angeles_Chargers
+28,Isaiah Spiller,RB,6'1,215,22,Texas A&M,Los_Angeles_Chargers
+2,Easton Stick,QB,6'1,224,28,North Dakota State,Los_Angeles_Chargers
+36,Ja'Sir Taylor,DB,5'10,185,25,Wake Forest,Los_Angeles_Chargers
+66,Cameron Tom,C,6'4,287,28,Southern Mississippi,Los_Angeles_Chargers
+45,Tuli Tuipulotu,LB,6'3,266,21,Southern California,Los_Angeles_Chargers
+83,Nick Vannett,TE,6'5,257,30,Ohio State,Los_Angeles_Chargers
+95,Nicholas Williams,DE,6'4,310,33,Samford,Los_Angeles_Chargers
+22,JT Woods,DB,6'2,193,23,Baylor,Los_Angeles_Chargers
+78,Zack Bailey,OT,6'5,300,28,South Carolina,Los_Angeles_Chargers
+97,Joey Bosa,LB,6'5,280,28,Ohio State,Los_Angeles_Chargers
+76,William Clapp,C,6'5,311,28,Louisiana State,Los_Angeles_Chargers
+10,Justin Herbert,QB,6'6,236,25,Oregon,Los_Angeles_Chargers
+58,Justin Hollins,LB,6'5,248,27,Oregon,Los_Angeles_Chargers
+41,Raheem Layne,DB,5'11,192,24,Indiana,Los_Angeles_Chargers
+44,Tanner Muse,LB,6'2,227,27,Clemson,Los_Angeles_Chargers
+94,Chris Rumph,LB,6'2,244,25,Duke,Los_Angeles_Chargers
+62,Andrew Trainer,OT,6'7,320,26,William & Mary,Los_Angeles_Chargers
+35,Amechi Uzodinma,DB,5'11,189,23,Ball State,Los_Angeles_Chargers
+81,Mike Williams,WR,6'4,218,29,Clemson,Los_Angeles_Chargers
+63,Corey Linsley,C,6'3,301,32,Ohio State,Los_Angeles_Chargers
+55,Brian Allen,C,6'2,303,28,Michigan State,Los_Angeles_Rams
+87,Davis Allen,TE,6'6,245,22,Clemson,Los_Angeles_Rams
+72,Tremayne Anchrum,OT,6'2,314,25,Clemson,Los_Angeles_Rams
+5,Chatarius Atwell,WR,5'9,165,24,Louisville,Los_Angeles_Rams
+73,Steve Avila,OG,6'3,330,24,Texas Christian,Los_Angeles_Rams
+95,Bobby Brown,DT,6'4,324,23,Texas A&M,Los_Angeles_Rams
+90,Earnest Brown,DE,6'5,270,25,Northwestern,Los_Angeles_Rams
+99,Aaron Donald,DT,6'1,280,32,Pittsburgh,Los_Angeles_Rams
+69,Kevin Dotson,OG,6'4,321,27,Louisiana-Lafayette,Los_Angeles_Rams
+14,Decobie Durant,DB,5'11,180,25,South Carolina State,Los_Angeles_Rams
+42,Ethan Evans,P,6'4,235,22,Wingate,Los_Angeles_Rams
+21,Zach Evans,RB,5'11,202,22,Mississippi,Los_Angeles_Rams
+54,Olakunle Fatukasi,LB,6'2,240,24,Rutgers,Los_Angeles_Rams
+24,Royce Freeman,RB,6'0,238,27,Oregon,Los_Angeles_Rams
+4,Jordan Fuller,DB,6'2,203,25,Ohio State,Los_Angeles_Rams
+31,Nick Hampton,LB,6'3,235,23,Appalachian State,Los_Angeles_Rams
+79,Rob Havenstein,OT,6'8,330,31,Wisconsin,Los_Angeles_Rams
+89,Tyler Higbee,TE,6'6,255,31,Western Kentucky,Los_Angeles_Rams
+6,Tre'Vius Hodges-Tomlinson,DB,5'9,180,22,Texas Christian,Los_Angeles_Rams
+97,Michael Hoecht,LB,6'4,310,26,Brown,Los_Angeles_Rams
+88,Brycen Hopkins,TE,6'4,245,26,Purdue,Los_Angeles_Rams
+35,Jake Hummel,LB,6'1,235,25,Iowa State,Los_Angeles_Rams
+77,Alaric Jackson,OT,6'7,285,25,Iowa,Los_Angeles_Rams
+94,Desjuan Johnson,DE,6'2,285,24,Toledo,Los_Angeles_Rams
+43,John Johnson,DB,6'0,209,28,Boston College,Los_Angeles_Rams
+16,Tyler Johnson,WR,6'1,206,25,Minnesota,Los_Angeles_Rams
+53,Ernest Jones,LB,6'2,230,24,South Carolina,Los_Angeles_Rams
+1,Derion Kendrick,DB,6'0,190,23,Georgia,Los_Angeles_Rams
+10,Cooper Kupp,WR,6'2,208,30,Eastern Washington,Los_Angeles_Rams
+37,Quentin Lake,DB,6'1,201,24,UCLA,Los_Angeles_Rams
+8,Brett Maher,K,6'0,180,34,Nebraska,Los_Angeles_Rams
+32,Ochaun Mathis,LB,6'5,260,25,Nebraska,Los_Angeles_Rams
+71,Warren McClendon,OT,6'4,300,22,Georgia,Los_Angeles_Rams
+52,Larrell Murchison,DT,6'2,297,26,North Carolina State,Los_Angeles_Rams
+17,Puka Nacua,WR,6'2,205,22,Brigham Young,Los_Angeles_Rams
+70,Joseph Noteboom,OT,6'5,321,28,Texas Christian,Los_Angeles_Rams
+59,Troy Reeder,LB,6'3,245,29,Delaware,Los_Angeles_Rams
+20,Ronnie Rivers,RB,5'9,195,24,Fresno State,Los_Angeles_Rams
+15,Demarcus Robinson,WR,6'1,203,29,Florida,Los_Angeles_Rams
+56,Christian Rozeboom,LB,6'2,230,26,South Dakota State,Los_Angeles_Rams
+65,Coleman Shelton,C,6'4,299,28,Washington,Los_Angeles_Rams
+18,Bennett Skowronek,WR,6'3,224,26,Notre Dame,Los_Angeles_Rams
+9,Matthew Stafford,QB,6'3,220,35,Georgia,Los_Angeles_Rams
+25,Jason Taylor II,DB,6'0,208,24,Oklahoma State,Los_Angeles_Rams
+96,Keir Thomas,LB,6'2,275,25,Florida State,Los_Angeles_Rams
+46,Carson Tinker,LS,6'0,233,34,Alabama,Los_Angeles_Rams
+81,Austin Trammell,WR,5'10,185,25,Rice,Los_Angeles_Rams
+91,Kobie Turner,DT,6'2,288,24,Wake Forest,Los_Angeles_Rams
+11,Carson Wentz,QB,6'5,237,31,North Dakota State,Los_Angeles_Rams
+92,Jonah Williams,DE,6'5,275,28,Weber State,Los_Angeles_Rams
+23,Kyren Williams,RB,5'9,194,23,Notre Dame,Los_Angeles_Rams
+12,Dresser Winn,QB,6'2,215,25,Tennessee-Martin,Los_Angeles_Rams
+44,Ahkello Witherspoon,DB,6'2,195,28,Colorado,Los_Angeles_Rams
+2,Russ Yeast,DB,5'10,195,24,Kansas State,Los_Angeles_Rams
+0,Byron Young,LB,6'2,250,25,Tennessee,Los_Angeles_Rams
+38,Shaun Jolly,DB,5'9,180,25,Appalachian State,Los_Angeles_Rams
+84,Hunter Long,TE,6'5,253,25,Boston College,Los_Angeles_Rams
+26,Duke Shelley,DB,5'8,183,27,Kansas State,Los_Angeles_Rams
+47,Alex Ward,LS,6'4,236,24,Central Florida,Los_Angeles_Rams
+13,Stetson Bennett,QB,5'11,190,26,Georgia,Los_Angeles_Rams
+22,Ameer Abdullah,RB,5'9,203,30,Nebraska,Las_Vegas_Raiders
+17,Davante Adams,WR,6'1,215,31,Fresno State,Las_Vegas_Raiders
+0,Jakorian Bennett,DB,5'11,195,23,Maryland,Las_Vegas_Raiders
+50,Jacob Bobenmoyer,LS,6'2,235,26,Northern Colorado,Las_Vegas_Raiders
+34,Brandon Bolden,RB,5'11,220,33,Mississippi,Las_Vegas_Raiders
+36,Curtis Bolton,LB,6'0,228,28,Oklahoma,Las_Vegas_Raiders
+56,Amari Burney,LB,6'2,228,23,Florida,Las_Vegas_Raiders
+69,Adam Butler,DT,6'4,300,29,Vanderbilt,Las_Vegas_Raiders
+94,Matthew Butler,DT,6'4,295,24,Tennessee,Las_Vegas_Raiders
+2,Daniel Carlson,K,6'5,215,28,Auburn,Las_Vegas_Raiders
+3,DeAndre Carter,WR,5'8,188,30,Sacramento State,Las_Vegas_Raiders
+6,A.J. Cole,P,6'4,220,28,North Carolina State,Las_Vegas_Raiders
+84,Keelan Cole,WR,6'1,194,30,Kentucky Wesleyan,Las_Vegas_Raiders
+98,Maxx Crosby,DE,6'5,255,26,Eastern Michigan,Las_Vegas_Raiders
+5,Divine Deablo,LB,6'3,226,25,Virginia Tech,Las_Vegas_Raiders
+72,Jermaine Eluemunor,OT,6'4,345,29,Texas A&M,Las_Vegas_Raiders
+1,Marcus Epps,DB,6'1,191,27,Wyoming,Las_Vegas_Raiders
+31,Brandon Facyson,DB,6'2,197,29,Virginia Tech,Las_Vegas_Raiders
+10,Jimmy Garoppolo,QB,6'2,225,32,Eastern Illinois,Las_Vegas_Raiders
+88,Zach Gentry,TE,6'8,265,27,Michigan,Las_Vegas_Raiders
+40,Jaydon Grant,DB,6'0,190,25,Oregon State,Las_Vegas_Raiders
+65,Hroniss Grasu,C,6'3,300,32,Oregon,Las_Vegas_Raiders
+37,Tyler Hall,DB,5'10,190,25,Wyoming,Las_Vegas_Raiders
+39,Nate Hobbs,DB,6'1,195,24,Illinois,Las_Vegas_Raiders
+81,Austin Hooper,TE,6'4,254,29,Stanford,Las_Vegas_Raiders
+7,Brian Hoyer,QB,6'2,215,38,Michigan State,Las_Vegas_Raiders
+8,Josh Jacobs,RB,5'10,223,25,Alabama,Las_Vegas_Raiders
+68,Andre James,C,6'4,300,26,UCLA,Las_Vegas_Raiders
+95,John Jenkins,DT,6'3,359,34,Georgia,Las_Vegas_Raiders
+45,Jakob Johnson,RB,6'3,255,29,Tennessee,Las_Vegas_Raiders
+18,Jack Jones,DB,5'11,175,26,Arizona State,Las_Vegas_Raiders
+51,Malcolm Koonce,DE,6'2,250,--,Buffalo,Las_Vegas_Raiders
+59,Luke Masterson,LB,6'1,234,26,Wake Forest,Las_Vegas_Raiders
+61,Jordan Meredith,OG,6'2,300,--,Western Kentucky,Las_Vegas_Raiders
+16,Jakobi Meyers,WR,6'2,200,27,North Carolina State,Las_Vegas_Raiders
+74,Kolton Miller,OT,6'8,325,28,UCLA,Las_Vegas_Raiders
+25,Tre'von Moehrig,DB,6'2,202,24,Texas Christian,Las_Vegas_Raiders
+77,Thayer Munford,OT,6'6,320,24,Ohio State,Las_Vegas_Raiders
+91,Bilal Nichols,DT,6'4,290,27,Delaware,Las_Vegas_Raiders
+4,Aidan O'Connell,QB,6'3,210,25,Purdue,Las_Vegas_Raiders
+66,Dylan Parham,OG,6'3,311,24,Memphis,Las_Vegas_Raiders
+75,Brandon Parker,OT,6'8,320,28,North Carolina A&T,Las_Vegas_Raiders
+20,Isaiah Pola-Mao,DB,6'4,211,24,Southern California,Las_Vegas_Raiders
+13,Hunter Renfrow,WR,5'10,185,28,Clemson,Las_Vegas_Raiders
+21,Amik Robertson,DB,5'8,187,25,Louisiana Tech,Las_Vegas_Raiders
+97,Janarius Robinson,DE,6'5,260,--,Florida State,Las_Vegas_Raiders
+29,Christopher Smith,DB,5'11,195,23,Georgia,Las_Vegas_Raiders
+41,Robert Spillane,LB,6'1,229,28,Western Michigan,Las_Vegas_Raiders
+90,Jerry Tillery,DT,6'6,295,27,Notre Dame,Las_Vegas_Raiders
+11,Tre Tucker,WR,5'9,185,22,Cincinnati,Las_Vegas_Raiders
+19,D.J. Turner,WR,5'9,205,26,Pittsburgh,Las_Vegas_Raiders
+70,Greg Van Roten,OG,6'4,295,33,Pennsylvania,Las_Vegas_Raiders
+35,Zamir White,RB,6'0,215,24,Georgia,Las_Vegas_Raiders
+9,Tyree Wilson,DE,6'6,271,23,Texas Tech,Las_Vegas_Raiders
+93,Byron Young,DT,6'3,297,23,Alabama,Las_Vegas_Raiders
+38,Brittain Brown,RB,6'1,205,26,UCLA,Las_Vegas_Raiders
+58,Darien Butler,LB,5'10,221,23,Arizona State,Las_Vegas_Raiders
+80,Jesper Horsted,TE,6'3,237,26,Princeton,Las_Vegas_Raiders
+43,Kana'i Mauga,LB,6'2,245,24,Southern California,Las_Vegas_Raiders
+87,Michael Mayer,TE,6'4,265,22,Notre Dame,Las_Vegas_Raiders
+78,Dalton Wagner,OT,6'8,320,25,Arkansas,Las_Vegas_Raiders
+32,Austin Walter,RB,5'8,190,27,Rice,Las_Vegas_Raiders
+28,De'Von Achane,RB,5'9,188,22,Texas A&M,Miami_Dolphins
+33,Eli Apple,DB,6'1,203,28,Ohio State,Miami_Dolphins
+72,Terron Armstead,OT,6'5,305,32,Arkansas-Pine Bluff,Miami_Dolphins
+16,Jake Bailey,P,6'2,205,26,Stanford,Miami_Dolphins
+55,Jerome Baker,LB,6'2,225,27,Ohio State,Miami_Dolphins
+0,Braxton Berrios,WR,5'9,190,28,Miami,Miami_Dolphins
+20,Justin Bethel,DB,6'0,200,33,Presbyterian,Miami_Dolphins
+38,Ethan Bonner,DB,6'1,186,24,Stanford,Miami_Dolphins
+35,Christopher Brooks,RB,6'1,223,23,Brigham Young,Miami_Dolphins
+22,Elijah Campbell,DB,5'11,195,28,Northern Iowa,Miami_Dolphins
+3,Robbie Chosen,WR,6'3,185,30,Temple,Miami_Dolphins
+83,Chase Claypool,WR,6'4,238,25,Notre Dame,Miami_Dolphins
+66,Lester Cotton,OG,6'4,335,27,Alabama,Miami_Dolphins
+85,River Cracraft,WR,6'0,198,29,Washington State,Miami_Dolphins
+98,Raekwon Davis,DT,6'7,335,26,Alabama,Miami_Dolphins
+74,Liam Eichenberg,OT,6'5,306,25,Notre Dame,Miami_Dolphins
+21,DeShon Elliott,DB,6'1,210,26,Texas,Miami_Dolphins
+44,Blake Ferguson,LS,6'3,240,26,Louisiana State,Miami_Dolphins
+53,Cameron Goode,LB,6'3,238,25,California,Miami_Dolphins
+93,Da'Shawn Hand,DT,6'3,297,28,Alabama,Miami_Dolphins
+60,Jonotthan Harrison,C,6'4,308,32,Florida,Miami_Dolphins
+89,Julian Hill,TE,6'4,247,23,Campbell,Miami_Dolphins
+10,Tyreek Hill,WR,5'10,191,29,West Alabama,Miami_Dolphins
+8,Jevon Holland,DB,6'1,210,23,Oregon,Miami_Dolphins
+25,Xavien Howard,DB,6'1,203,30,Baylor,Miami_Dolphins
+68,Robert Hunt,OG,6'6,335,27,Louisiana-Lafayette,Miami_Dolphins
+30,Alec Ingold,RB,6'1,235,27,Wisconsin,Miami_Dolphins
+9,Melvin Ingram,LB,6'2,250,34,South Carolina,Miami_Dolphins
+73,Austin Jackson,OG,6'5,320,24,Southern California,Miami_Dolphins
+29,Brandon Jones,DB,6'1,191,25,Texas,Miami_Dolphins
+65,Robert Jones,OG,6'4,334,24,Middle Tennessee State,Miami_Dolphins
+4,Kader Kohou,DB,5'10,195,25,Texas A&M-Commerce,Miami_Dolphins
+82,Tyler Kroft,TE,6'6,252,31,Rutgers,Miami_Dolphins
+70,Kendall Lamm,OT,6'5,310,31,Appalachian State,Miami_Dolphins
+51,David Long,LB,5'11,227,27,West Virginia,Miami_Dolphins
+31,Raheem Mostert,RB,5'10,205,31,Purdue,Miami_Dolphins
+50,Calvin Munson,LB,6'1,240,29,San Diego State,Miami_Dolphins
+40,Nik Needham,DB,6'1,196,27,Texas-El Paso,Miami_Dolphins
+91,Emmanuel Ogbah,DE,6'4,278,30,Oklahoma State,Miami_Dolphins
+5,Jalen Ramsey,DB,6'1,208,29,Florida State,Miami_Dolphins
+45,Duke Riley,LB,6'1,227,29,Louisiana State,Miami_Dolphins
+7,Jason Sanders,K,5'11,190,28,New Mexico,Miami_Dolphins
+92,Zach Sieler,DT,6'6,305,28,Ferris State,Miami_Dolphins
+24,Cam Smith,DB,6'1,180,23,South Carolina,Miami_Dolphins
+71,Kion Smith,OT,6'5,311,25,Fayetteville State,Miami_Dolphins
+81,Durham Smythe,TE,6'6,246,28,Notre Dame,Miami_Dolphins
+1,Tua Tagovailoa,QB,6'1,217,25,Alabama,Miami_Dolphins
+6,Skylar Thompson,QB,6'2,219,26,Kansas State,Miami_Dolphins
+41,Channing Tindall,LB,6'2,232,23,Georgia,Miami_Dolphins
+43,Andrew Van Ginkel,LB,6'4,242,28,Wisconsin,Miami_Dolphins
+17,Jaylen Waddle,WR,5'10,182,25,Alabama,Miami_Dolphins
+14,Mike White,QB,6'5,218,28,Western Kentucky,Miami_Dolphins
+94,Christian Wilkins,DT,6'4,310,28,Clemson,Miami_Dolphins
+11,Cedrick Wilson,WR,6'2,197,28,Boise State,Miami_Dolphins
+23,Jeffery Wilson,RB,6'0,210,28,North Texas,Miami_Dolphins
+26,Salvon Ahmed,RB,5'11,197,25,Washington,Miami_Dolphins
+2,Bradley Chubb,LB,6'4,275,27,North Carolina State,Miami_Dolphins
+27,Keion Crossen,DB,5'10,195,27,Western Carolina,Miami_Dolphins
+15,Jaelan Phillips,LB,6'5,263,24,Miami,Miami_Dolphins
+57,Zeke Vandenburgh,DE,6'4,232,24,Illinois State,Miami_Dolphins
+58,Connor Williams,C,6'5,317,26,Texas,Miami_Dolphins
+77,Isaiah Wynn,OT,6'2,310,28,Georgia,Miami_Dolphins
+18,Erik Ezukanma,WR,6'2,206,23,Texas Tech,Miami_Dolphins
+3,Jordan Addison,WR,6'0,175,21,Southern California,Minnesota_Vikings
+78,Hakeem Adeniji,OT,6'4,302,26,Kansas,Minnesota_Vikings
+33,Brian Asamoah,LB,6'0,226,23,Oklahoma,Minnesota_Vikings
+54,Anthony Barr,LB,6'5,257,31,UCLA,Minnesota_Vikings
+5,Mekhi Blackmon,DB,5'11,178,24,Southern California,Minnesota_Vikings
+23,Andrew Booth,DB,6'0,194,23,Clemson,Minnesota_Vikings
+56,Garrett Bradbury,C,6'3,300,28,North Carolina State,Minnesota_Vikings
+64,Blake Brandel,OG,6'7,315,26,Oregon State,Minnesota_Vikings
+90,Jonathan Bullard,DE,6'3,290,30,Florida,Minnesota_Vikings
+24,Camryn Bynum,DB,6'0,200,25,California,Minnesota_Vikings
+55,Andre Carter,LB,6'6,256,23,Army,Minnesota_Vikings
+32,Ty Chandler,RB,5'11,204,25,North Carolina,Minnesota_Vikings
+6,Lewis Cine,DB,6'2,199,24,Georgia,Minnesota_Vikings
+71,Christian Darrisaw,OT,6'5,315,24,Virginia Tech,Minnesota_Vikings
+52,Sheldon Day,DT,6'1,294,29,Notre Dame,Minnesota_Vikings
+42,Andrew DePaola,LS,6'1,229,36,Rutgers,Minnesota_Vikings
+15,Joshua Dobbs,QB,6'3,216,28,Tennessee,Minnesota_Vikings
+21,Akayleb Evans,DB,6'2,198,24,Missouri,Minnesota_Vikings
+16,Jaren Hall,QB,6'0,207,25,Brigham Young,Minnesota_Vikings
+30,C.J. Ham,RB,5'11,250,30,Augustana (SD),Minnesota_Vikings
+58,Jordan Hicks,LB,6'1,236,31,Texas,Minnesota_Vikings
+99,Danielle Hunter,LB,6'5,263,29,Louisiana State,Minnesota_Vikings
+67,Edward Ingram,OG,6'3,307,24,Louisiana State,Minnesota_Vikings
+81,Lucky Jackson,WR,6'0,186,26,Western Kentucky,Minnesota_Vikings
+25,Theo Jackson,DB,6'1,198,25,Tennessee,Minnesota_Vikings
+18,Justin Jefferson,WR,6'1,195,24,Louisiana State,Minnesota_Vikings
+91,Patrick Jones,LB,6'4,264,25,Pittsburgh,Minnesota_Vikings
+1,Greg Joseph,K,6'0,206,29,Florida Atlantic,Minnesota_Vikings
+2,Alexander Mattison,RB,5'11,215,25,Boise State,Minnesota_Vikings
+44,Josh Metellus,DB,5'11,207,25,Michigan,Minnesota_Vikings
+12,Nick Mullens,QB,6'0,201,28,Southern Mississippi,Minnesota_Vikings
+86,John Mundt,TE,6'4,233,29,Oregon,Minnesota_Vikings
+7,Byron Murphy,DB,5'11,190,25,Washington,Minnesota_Vikings
+34,Nick Muse,TE,6'5,252,25,South Carolina,Minnesota_Vikings
+26,Kene Nwangwu,RB,6'1,210,25,Iowa State,Minnesota_Vikings
+75,Brian O'Neill,OT,6'7,310,28,Pittsburgh,Minnesota_Vikings
+84,Josh Oliver,TE,6'5,249,26,San Jose State,Minnesota_Vikings
+17,K.J. Osborn,WR,5'11,203,26,Miami,Minnesota_Vikings
+40,Ivan Pace,LB,5'10,231,23,Cincinnati,Minnesota_Vikings
+97,Harrison Phillips,DT,6'3,307,27,Stanford,Minnesota_Vikings
+4,Brandon Powell,WR,5'8,181,28,Florida,Minnesota_Vikings
+76,David Quessenberry,OT,6'5,306,33,San Jose State,Minnesota_Vikings
+62,Christopher Reed,OG,6'3,314,31,Mankato State,Minnesota_Vikings
+66,Dalton Risner,OG,6'5,312,28,Kansas State,Minnesota_Vikings
+93,Jaquelin Roy,DT,6'3,305,23,Louisiana State,Minnesota_Vikings
+65,Austin Schlottmann,C,6'6,300,28,Texas Christian,Minnesota_Vikings
+22,Harrison Smith,DB,6'2,211,34,Notre Dame,Minnesota_Vikings
+50,T.J. Smith,DT,6'3,300,26,Arkansas,Minnesota_Vikings
+11,NaJee Thompson,DB,5'11,205,23,Georgia Southern,Minnesota_Vikings
+95,Khyiris Tonga,DT,6'4,338,27,Brigham Young,Minnesota_Vikings
+59,Nick Vigil,LB,6'2,230,30,Utah State,Minnesota_Vikings
+20,Jay Ward,DB,6'1,188,23,Louisiana State,Minnesota_Vikings
+38,Jaylin Williams,DB,5'10,195,23,Indiana,Minnesota_Vikings
+29,Joejuan Williams,DB,6'3,212,26,Vanderbilt,Minnesota_Vikings
+14,Ryan Wright,P,6'3,245,23,Tulane,Minnesota_Vikings
+31,Cam Akers,RB,5'10,217,24,Florida State,Minnesota_Vikings
+8,Kirk Cousins,QB,6'3,205,35,Michigan State,Minnesota_Vikings
+0,Marcus Davenport,DE,6'6,265,27,Texas-San Antonio,Minnesota_Vikings
+45,Troy Dye,LB,6'3,225,27,Oregon,Minnesota_Vikings
+87,T.J. Hockenson,TE,6'5,248,26,Iowa,Minnesota_Vikings
+47,William Kwenkeu,LB,6'1,235,26,Temple,Minnesota_Vikings
+94,Dean Lowry,DE,6'6,296,29,Northwestern,Minnesota_Vikings
+92,James Lynch,DT,6'4,295,24,Baylor,Minnesota_Vikings
+83,Jalen Nailor,WR,6'0,190,24,Michigan State,Minnesota_Vikings
+74,Olisaemeka Udoh,OG,6'6,320,26,Elon,Minnesota_Vikings
+98,D.J. Wonnum,LB,6'5,258,26,South Carolina,Minnesota_Vikings
+81,Malik Knowles,WR,6'2,196,23,Kansas State,Minnesota_Vikings
+60,David Andrews,C,6'3,300,31,Georgia,New_England_Patriots
+67,Jake Andrews,C,6'3,305,24,Troy State,New_England_Patriots
+28,Alex Austin,DB,6'1,191,22,Oregon State,New_England_Patriots
+17,Bryce Baringer,P,6'3,215,24,Michigan State,New_England_Patriots
+90,Christian Barmore,DT,6'5,310,24,Alabama,New_England_Patriots
+8,Ja'Whaun Bentley,LB,6'2,244,27,Purdue,New_England_Patriots
+24,Joshuah Bledsoe,DB,5'11,201,26,Missouri,New_England_Patriots
+45,Chris Board,LB,6'2,229,28,North Dakota State,New_England_Patriots
+80,Kayshon Boutte,WR,6'0,195,21,Louisiana State,New_England_Patriots
+86,Pharaoh Brown,TE,6'5,246,29,Oregon,New_England_Patriots
+77,Trenton Brown,OT,6'8,370,30,Florida,New_England_Patriots
+27,Myles Bryant,DB,5'9,185,26,Washington,New_England_Patriots
+49,Joe Cardona,LS,6'3,245,31,Navy,New_England_Patriots
+22,Cody Davis,DB,6'2,203,34,Texas Tech,New_England_Patriots
+81,Demario Douglas,WR,5'8,170,23,Liberty,New_England_Patriots
+23,Kyle Dugger,DB,6'2,220,27,Lenoir-Rhyne,New_England_Patriots
+15,Ezekiel Elliott,RB,6'0,225,28,Ohio State,New_England_Patriots
+53,Christian Elliss,LB,6'3,233,--,Idaho,New_England_Patriots
+65,James Ferentz,C,6'2,300,34,Iowa,New_England_Patriots
+88,Mike Gesicki,TE,6'6,245,28,Penn State,New_England_Patriots
+92,Davon Godchaux,DT,6'3,311,29,Louisiana State,New_England_Patriots
+93,Lawrence Guy,DT,6'4,315,33,Arizona State,New_England_Patriots
+36,Kevin Harris,RB,5'10,225,23,South Carolina,New_England_Patriots
+39,JaMycal Hasty,RB,5'8,205,27,Baylor,New_England_Patriots
+33,Anfernee Jennings,LB,6'3,259,26,Alabama,New_England_Patriots
+31,Jonathan Jones,DB,5'10,190,30,Auburn,New_England_Patriots
+10,Mac Jones,QB,6'3,217,25,Alabama,New_England_Patriots
+59,Vederian Lowe,OT,6'6,320,24,Illinois,New_England_Patriots
+68,Atonio Mafi,OG,6'3,329,23,UCLA,New_England_Patriots
+30,Marte Mapu,LB,6'3,216,24,Sacramento State,New_England_Patriots
+2,Jalen Mills,DB,6'0,191,29,Louisiana State,New_England_Patriots
+71,Michael Onwenu,OT,6'3,350,26,Michigan,New_England_Patriots
+1,DeVante Parker,WR,6'3,218,30,Louisville,New_England_Patriots
+5,Jabrill Peppers,DB,5'11,213,28,Michigan,New_England_Patriots
+46,La'Michael Pettway,TE,6'1,230,26,Iowa State,New_England_Patriots
+70,Jeremiah Pharms Jr.,DT,6'3,275,27,Friends (KS),New_England_Patriots
+21,Adrian Phillips,DB,5'11,210,31,Texas,New_England_Patriots
+83,Jalen Reagor,WR,5'11,197,25,Texas Christian,New_England_Patriots
+96,Sam Roberts,DT,6'5,295,25,Northwest Missouri State,New_England_Patriots
+13,Nathan Rourke,QB,6'1,210,25,Ohio,New_England_Patriots
+37,Chad Ryland,K,6'0,183,24,Maryland,New_England_Patriots
+41,Brenden Schooler,DB,6'1,205,26,Texas,New_England_Patriots
+18,Matt Slater,WR,6'0,205,38,UCLA,New_England_Patriots
+87,Matt Sokol,TE,6'5,249,28,Michigan State,New_England_Patriots
+62,Sidy Sow,OG,6'5,326,25,Eastern Michigan,New_England_Patriots
+64,Andrew Stueber,OT,6'6,325,24,Michigan,New_England_Patriots
+48,Jahlani Tavai,LB,6'2,246,27,Hawaii,New_England_Patriots
+11,Tyquan Thornton,WR,6'2,182,23,Baylor,New_England_Patriots
+55,Josh Uche,LB,6'3,245,25,Michigan,New_England_Patriots
+26,Shaun Wade,DB,6'1,191,25,Ohio State,New_England_Patriots
+99,Keion White,DE,6'5,290,24,Georgia Tech,New_England_Patriots
+3,Mack Wilson,LB,6'1,233,25,Alabama,New_England_Patriots
+19,Marco Wilson,DB,6'0,191,24,Florida,New_England_Patriots
+91,Deatrich Wise,DE,6'5,275,29,Arkansas,New_England_Patriots
+4,Bailey Zappe,QB,6'1,220,24,Western Kentucky,New_England_Patriots
+76,Calvin Anderson,OT,6'5,300,27,Texas,New_England_Patriots
+7,Isaiah Bolden,DB,6'2,205,24,Jackson State,New_England_Patriots
+84,Kendrick Bourne,WR,6'1,190,28,Eastern Washington,New_England_Patriots
+95,Daniel Ekuale,DT,6'3,305,29,Washington State,New_England_Patriots
+6,Christian Gonzalez,DB,6'2,205,21,Oregon,New_England_Patriots
+59,Terez Hall,LB,6'2,235,27,Missouri,New_England_Patriots
+85,Hunter Henry,TE,6'5,250,29,Arkansas,New_England_Patriots
+25,Marcus Jones,DB,5'8,175,25,Houston,New_England_Patriots
+9,Matt Judon,LB,6'3,261,31,Grand Valley State,New_England_Patriots
+75,Conor McDermott,OT,6'8,305,31,UCLA,New_England_Patriots
+50,Raekwon McMillan,LB,6'2,242,27,Ohio State,New_England_Patriots
+82,Tre Nixon,WR,6'2,180,--,Central Florida,New_England_Patriots
+74,Riley Reiff,OT,6'6,313,35,Iowa,New_England_Patriots
+7,JuJu Smith-Schuster,WR,6'1,215,27,Southern California,New_England_Patriots
+38,Rhamondre Stevenson,RB,6'0,230,25,Oklahoma,New_England_Patriots
+69,Cole Strange,OG,6'5,305,25,Tennessee-Chattanooga,New_England_Patriots
+72,Tyrone Wheatley Jr.,OT,6'6,320,26,Morgan State,New_England_Patriots
+29,J.C. Jackson,DB,6'1,198,28,Maryland,New_England_Patriots
+24,Johnathan Abram,DB,6'0,205,27,Mississippi State,New_Orleans_Saints
+29,Paulson Adebo,DB,6'1,192,24,Stanford,New_Orleans_Saints
+0,Ugo Amadi,DB,5'9,201,26,Oregon,New_Orleans_Saints
+53,Zack Baun,LB,6'3,225,27,Wisconsin,New_Orleans_Saints
+5,Lynn Bowden,WR,5'11,204,26,Kentucky,New_Orleans_Saints
+90,Bryan Bresee,DT,6'5,305,22,Clemson,New_Orleans_Saints
+4,Derek Carr,QB,6'3,214,32,Fresno State,New_Orleans_Saints
+56,Demario Davis,LB,6'2,248,34,Arkansas State,New_Orleans_Saints
+77,Cameron Erving,OG,6'5,313,31,Florida State,New_Orleans_Saints
+55,Isaiah Foskey,DE,6'5,265,23,Notre Dame,New_Orleans_Saints
+73,Max Garcia,OG,6'4,309,32,Florida,New_Orleans_Saints
+80,Jimmy Graham,TE,6'6,260,37,Miami,New_Orleans_Saints
+96,Carl Granderson,DE,6'5,261,27,Wyoming,New_Orleans_Saints
+48,J.T. Gray,DB,6'0,202,27,Mississippi State,New_Orleans_Saints
+19,Blake Grupe,K,5'7,156,25,Notre Dame,New_Orleans_Saints
+3,Jake Haener,QB,6'1,200,24,Fresno State,New_Orleans_Saints
+39,Louis Hedley,P,6'4,220,30,Miami,New_Orleans_Saints
+7,Taysom Hill,QB,6'2,221,33,Brigham Young,New_Orleans_Saints
+31,Jordan Howden,DB,6'0,209,23,Minnesota,New_Orleans_Saints
+74,James Hurst,OT,6'5,310,32,North Carolina,New_Orleans_Saints
+52,D'Marco Jackson,LB,6'1,233,25,Appalachian State,New_Orleans_Saints
+38,Shemar Jean-Charles,DB,5'10,184,25,Appalachian State,New_Orleans_Saints
+83,Juwan Johnson,TE,6'4,231,27,Oregon,New_Orleans_Saints
+28,Lonnie Johnson,DB,6'2,213,26,Kentucky,New_Orleans_Saints
+94,Cameron Jordan,DE,6'4,287,34,California,New_Orleans_Saints
+41,Alvin Kamara,RB,5'10,215,27,Tennessee,New_Orleans_Saints
+18,Keith Kirkwood,WR,6'3,210,30,Temple,New_Orleans_Saints
+92,Tanoh Kpassagnon,DE,6'7,289,29,Villanova,New_Orleans_Saints
+62,Tommy Kraemer,OG,6'6,309,25,Notre Dame,New_Orleans_Saints
+32,Tyrann Mathieu,DB,5'9,190,31,Louisiana State,New_Orleans_Saints
+78,Erik McCoy,C,6'4,303,26,Texas A&M,New_Orleans_Saints
+25,Kendre Miller,RB,6'0,220,21,Texas Christian,New_Orleans_Saints
+33,Jordan Mims,RB,5'10,206,24,Fresno State,New_Orleans_Saints
+87,Foster Moreau,TE,6'4,250,26,Louisiana State,New_Orleans_Saints
+54,PJ Mustipher,DT,6'4,318,24,Penn State,New_Orleans_Saints
+12,Chris Olave,WR,6'0,187,23,Ohio State,New_Orleans_Saints
+75,Andrus Peat,OG,6'7,316,30,Stanford,New_Orleans_Saints
+70,Trevor Penning,OT,6'7,325,24,Northern Iowa,New_Orleans_Saints
+17,A.T. Perry,WR,6'5,205,24,Wake Forest,New_Orleans_Saints
+91,Kyle Phillips,DE,6'4,277,28,Tennessee,New_Orleans_Saints
+46,Adam Prentice,RB,6'0,245,26,South Carolina,New_Orleans_Saints
+59,Monty Rice,LB,6'0,233,--,Georgia,New_Orleans_Saints
+51,Cesar Ruiz,OG,6'4,316,24,Michigan,New_Orleans_Saints
+99,Khalen Saunders,DT,6'0,324,27,Western Illinois,New_Orleans_Saints
+22,Rashid Shaheed,WR,6'0,180,25,Weber State,New_Orleans_Saints
+93,Nathan Shepherd,DT,6'4,315,30,Fort Hays State,New_Orleans_Saints
+42,Ty Summers,LB,6'1,241,28,Texas Christian,New_Orleans_Saints
+1,Alontae Taylor,DB,6'1,199,25,Tennessee,New_Orleans_Saints
+98,Payton Turner,DE,6'6,270,25,Houston,New_Orleans_Saints
+20,Pete Werner,LB,6'3,242,24,Ohio State,New_Orleans_Saints
+21,Jamaal Williams,RB,6'0,213,28,Brigham Young,New_Orleans_Saints
+2,Jameis Winston,QB,6'4,231,30,Florida State,New_Orleans_Saints
+49,Zach Wood,LS,6'3,255,30,Southern Methodist,New_Orleans_Saints
+27,Isaac Yiadom,DB,6'1,188,27,Boston College,New_Orleans_Saints
+67,Landon Young,OT,6'7,321,--,Kentucky,New_Orleans_Saints
+31,Eno Benjamin,RB,5'9,207,24,Arizona State,New_Orleans_Saints
+50,Andrew Dowell,LB,6'1,225,27,Michigan State,New_Orleans_Saints
+23,Marshon Lattimore,DB,6'0,192,27,Ohio State,New_Orleans_Saints
+6,Marcus Maye,DB,6'0,207,30,Florida,New_Orleans_Saints
+71,Ryan Ramczyk,OT,6'6,314,29,Wisconsin,New_Orleans_Saints
+97,Malcolm Roach,DT,6'3,290,25,Texas,New_Orleans_Saints
+64,Nick Saldiveri,OG,6'6,316,23,Old Dominion,New_Orleans_Saints
+45,Nephi Sewell,LB,6'0,228,25,Utah,New_Orleans_Saints
+13,Michael Thomas,WR,6'3,212,29,Ohio State,New_Orleans_Saints
+-,Trai Turner,OG,6'3,320,30,Louisiana State,New_Orleans_Saints
+25,Deonte Banks,DB,6'2,205,22,Maryland,New_York_Giants
+26,Saquon Barkley,RB,6'0,232,26,Penn State,New_York_Giants
+45,Carlos Basham,LB,6'3,274,26,Wake Forest,New_York_Giants
+43,Darrian Beavers,LB,6'4,255,24,Cincinnati,New_York_Giants
+82,Daniel Bellinger,TE,6'5,253,23,San Diego State,New_York_Giants
+24,Dane Belton,DB,6'1,205,23,Iowa,New_York_Giants
+68,Ben Bredeson,OG,6'5,315,25,Michigan,New_York_Giants
+31,Matt Breida,RB,5'10,190,28,Georgia Southern,New_York_Giants
+47,Cam Brown,LB,6'5,233,25,Penn State,New_York_Giants
+-,Yodny Cajuste,OT,6'5,310,27,West Virginia,New_York_Giants
+0,Parris Campbell,WR,6'0,208,26,Ohio State,New_York_Giants
+35,Jashaun Corbin,RB,6'0,221,23,Florida State,New_York_Giants
+52,Carter Coughlin,LB,6'3,236,26,Minnesota,New_York_Giants
+21,Mason Crosby,K,6'1,212,39,Colorado,New_York_Giants
+98,D.J. Davidson,DT,6'3,327,24,Arizona State,New_York_Giants
+15,Tommy DeVito,QB,6'2,210,25,Illinois,New_York_Giants
+9,Jacob Eason,QB,6'6,231,26,Washington,New_York_Giants
+28,Cordale Flott,DB,6'1,175,24,Louisiana State,New_York_Giants
+6,Jamie Gillan,P,6'1,207,26,Arkansas-Pine Bluff,New_York_Giants
+64,Mark Glowinski,OG,6'4,310,31,West Virginia,New_York_Giants
+20,Eric Gray,RB,5'10,210,24,Oklahoma,New_York_Giants
+65,Sean Harlow,OG,6'4,284,28,Oregon State,New_York_Giants
+37,Tre Hawkins,DB,6'3,195,23,Old Dominion,New_York_Giants
+18,Isaiah Hodgins,WR,6'3,201,25,Oregon State,New_York_Giants
+30,Darnay Holmes,DB,5'10,195,25,UCLA,New_York_Giants
+96,Timmy Horne,DT,6'4,323,26,Kansas State,New_York_Giants
+13,Jalin Hyatt,WR,6'0,185,22,Tennessee,New_York_Giants
+22,Adoree' Jackson,DB,5'11,185,28,Southern California,New_York_Giants
+84,Tyree Jackson,TE,6'7,249,26,Buffalo,New_York_Giants
+59,Casey Kreiter,LS,6'1,250,33,Iowa,New_York_Giants
+97,Dexter Lawrence,DE,6'4,342,26,Clemson,New_York_Giants
+44,Nick McCloud,DB,6'1,190,25,Notre Dame,New_York_Giants
+41,Micah McFadden,LB,6'2,232,24,Indiana,New_York_Giants
+60,Marcus McKethan,OG,6'7,335,23,North Carolina,New_York_Giants
+29,Xavier McKinney,DB,6'0,201,25,Alabama,New_York_Giants
+93,Rakeem Nunez-Roches,DT,6'2,307,30,Southern Mississippi,New_York_Giants
+51,Azeez Ojulari,LB,6'3,240,23,Georgia,New_York_Giants
+58,Bobby Okereke,LB,6'1,235,27,Stanford,New_York_Giants
+80,Gunner Olszewski,WR,6'0,190,27,Bemidji State,New_York_Giants
+39,Gervarrius Owens,DB,6'0,200,24,Houston,New_York_Giants
+74,Matt Peart,OT,6'7,318,26,Connecticut,New_York_Giants
+67,Justin Pugh,OG,6'5,311,33,Syracuse,New_York_Giants
+95,Jordon Riley,DT,6'5,325,25,Oregon,New_York_Giants
+91,A'Shawn Robinson,DT,6'3,320,28,Alabama,New_York_Giants
+17,Wan'Dale Robinson,WR,5'8,185,23,Kentucky,New_York_Giants
+61,John Michael Schmitz,C,6'4,310,24,Minnesota,New_York_Giants
+3,Sterling Shepard,WR,5'10,196,30,Oklahoma,New_York_Giants
+19,Isaiah Simmons,LB,6'4,238,25,Clemson,New_York_Giants
+86,Darius Slayton,WR,6'1,194,26,Auburn,New_York_Giants
+2,Tyrod Taylor,QB,6'1,217,34,Virginia Tech,New_York_Giants
+5,Kayvon Thibodeaux,LB,6'5,258,23,Oregon,New_York_Giants
+78,Andrew Thomas,OT,6'5,315,24,Georgia,New_York_Giants
+12,Darren Waller,TE,6'6,245,31,Georgia Tech,New_York_Giants
+55,Jihad Ward,LB,6'5,287,29,Illinois,New_York_Giants
+48,Benton Whitley,LB,6'4,260,24,Holy Cross,New_York_Giants
+23,Gary Brightwell,RB,6'1,218,24,Arizona,New_York_Giants
+46,Randy Bullock,K,5'9,208,34,Texas A&M,New_York_Giants
+83,Lawrence Cager,TE,6'5,220,26,Georgia,New_York_Giants
+57,Jarrad Davis,LB,6'1,238,28,Florida,New_York_Giants
+67,Wyatt Davis,OG,6'4,315,24,Ohio State,New_York_Giants
+75,Joshua Ezeudu,OT,6'4,308,24,North Carolina,New_York_Giants
+6,Bryce Ford-Wheaton,WR,6'3,224,23,West Virginia,New_York_Giants
+9,Graham Gano,K,6'2,202,36,Florida State,New_York_Giants
+-,J.C. Hassenauer,C,6'2,295,29,Alabama,New_York_Giants
+8,Daniel Jones,QB,6'5,230,26,Duke,New_York_Giants
+66,Shane Lemieux,OG,6'4,310,26,Oregon,New_York_Giants
+73,Evan Neal,OT,6'7,350,23,Alabama,New_York_Giants
+79,Tyre Phillips,OT,6'5,330,26,Mississippi State,New_York_Giants
+27,Jason Pinnock,DB,6'0,205,24,Pittsburgh,New_York_Giants
+33,Aaron Robinson,DB,6'1,193,--,Central Florida,New_York_Giants
+25,Israel Abanikanda,RB,5'11,215,21,Pittsburgh,New_York_Jets
+22,Tony Adams,DB,6'0,205,24,Illinois,New_York_Jets
+48,Nick Bawden,RB,6'2,245,27,San Diego State,New_York_Jets
+77,Mekhi Becton,OT,6'7,363,24,Louisville,New_York_Jets
+29,Jarrick Bernard,DB,6'1,197,23,Louisiana State,New_York_Jets
+16,Jason Brownlee,WR,6'2,198,24,Southern Mississippi,New_York_Jets
+30,Michael Carter,DB,5'10,184,24,Duke,New_York_Jets
+19,Irvin Charles,WR,6'4,219,26,Indiana (PA),New_York_Jets
+72,Micheal Clemons,DE,6'5,270,26,Texas A&M,New_York_Jets
+18,Randall Cobb,WR,5'10,192,33,Kentucky,New_York_Jets
+83,Tyler Conklin,TE,6'3,254,28,Central Michigan,New_York_Jets
+21,Ashtyn Davis,DB,6'1,202,27,California,New_York_Jets
+64,Austin Deculus,OT,6'5,321,24,Louisiana State,New_York_Jets
+26,Brandin Echols,DB,5'10,175,--,Kentucky,New_York_Jets
+52,Samuel Eguavoen,LB,6'0,236,30,Texas Tech,New_York_Jets
+91,John Franklin-Myers,DE,6'4,288,27,Stephen F. Austin,New_York_Jets
+1,Ahmad Gardner,DB,6'3,200,23,Cincinnati,New_York_Jets
+82,Xavier Gipson,WR,5'9,189,22,Stephen F. Austin,New_York_Jets
+63,Chris Glaser,OG,6'4,306,24,Virginia,New_York_Jets
+20,Breece Hall,RB,6'1,220,22,Iowa State,New_York_Jets
+37,Bryce Hall,DB,6'1,202,26,Virginia,New_York_Jets
+34,Justin Hardee,DB,6'1,200,29,Illinois,New_York_Jets
+98,Bruce Hector,DT,6'2,296,29,South Florida,New_York_Jets
+42,Thomas Hennessy,LS,6'2,246,29,Duke,New_York_Jets
+97,Jalyn Holmes,DE,6'5,283,27,Ohio State,New_York_Jets
+47,Bryce Huff,LB,6'3,255,25,Memphis,New_York_Jets
+11,Jermaine Johnson,LB,6'5,262,25,Florida State,New_York_Jets
+81,Zack Kuntz,TE,6'8,251,24,Old Dominion,New_York_Jets
+58,Carl Lawson,DE,6'2,265,28,Auburn,New_York_Jets
+10,Allen Lazard,WR,6'5,227,28,Iowa State,New_York_Jets
+41,Marcelino McCrary-Ball,LB,6'0,214,24,Indiana,New_York_Jets
+99,Will McDonald,LB,6'3,241,24,Iowa State,New_York_Jets
+61,Max Mitchell,OT,6'6,299,24,Louisiana-Lafayette,New_York_Jets
+5,Thomas Morstead,P,6'4,225,37,Southern Methodist,New_York_Jets
+57,C.J. Mosley,LB,6'2,231,31,Alabama,New_York_Jets
+65,Xavier Newman-Johnson,OG,6'2,297,24,Baylor,New_York_Jets
+4,D.J. Reed,DB,5'9,188,27,Kansas State,New_York_Jets
+8,Aaron Rodgers,QB,6'2,223,40,California,New_York_Jets
+15,Brett Rypien,QB,6'2,202,27,Boise State,New_York_Jets
+6,Austin Seibert,K,5'9,211,27,Oklahoma,New_York_Jets
+44,Jamien Sherwood,LB,6'2,216,--,Auburn,New_York_Jets
+14,Trevor Siemian,QB,6'3,220,32,Northwestern,New_York_Jets
+55,Chazz Surratt,LB,6'2,233,26,North Carolina,New_York_Jets
+94,Solomon Thomas,DE,6'2,256,28,Stanford,New_York_Jets
+66,Joe Tippmann,C,6'6,317,22,Wisconsin,New_York_Jets
+78,Laken Tomlinson,OG,6'3,323,31,Duke,New_York_Jets
+54,Billy Turner,OT,6'5,313,32,North Dakota State,New_York_Jets
+35,Xazavian Valladay,RB,6'0,198,25,Arizona State,New_York_Jets
+67,Carter Warren,OT,6'5,323,24,Pittsburgh,New_York_Jets
+3,Jordan Whitehead,DB,5'10,198,26,Pittsburgh,New_York_Jets
+56,Quincy Williams,LB,5'11,225,27,Murray State,New_York_Jets
+95,Quinnen Williams,DT,6'3,303,26,Alabama,New_York_Jets
+17,Garrett Wilson,WR,6'0,192,23,Ohio State,New_York_Jets
+88,Kenny Yeboah,TE,6'3,250,25,Mississippi,New_York_Jets
+9,Greg Zuerlein,K,6'0,187,36,Missouri Western State,New_York_Jets
+50,Bradlee Anae,DE,6'3,260,25,Utah,New_York_Jets
+53,Zaire Barnes,LB,6'1,232,24,Western Michigan,New_York_Jets
+76,Duane Brown,OT,6'4,329,38,Virginia Tech,New_York_Jets
+0,Chuck Clark,DB,6'0,210,28,Virginia Tech,New_York_Jets
+40,Javelin Guidry,DB,5'9,191,27,Utah,New_York_Jets
+46,Maalik Hall,LB,6'3,235,24,Southeast Oklahoma State,New_York_Jets
+62,Jake Hanson,OG,6'4,296,26,Oregon,New_York_Jets
+70,Quinton Jefferson,DE,6'4,291,30,Maryland,New_York_Jets
+60,Connor McGovern,C,6'4,306,30,Missouri,New_York_Jets
+92,Ifeadi Odenigbo,DE,6'3,258,29,Northwestern,New_York_Jets
+89,Jeremy Ruckert,TE,6'5,250,23,Ohio State,New_York_Jets
+71,Wes Schweitzer,C,6'4,300,30,San Jose State,New_York_Jets
+87,C.J. Uzomah,TE,6'5,271,30,Auburn,New_York_Jets
+75,Alijah Vera-Tucker,OT,6'5,308,24,Southern California,New_York_Jets
+2,Zach Wilson,QB,6'2,214,24,Brigham Young,New_York_Jets
+96,Al Woods,DT,6'4,309,36,Louisiana State,New_York_Jets
+32,Reed Blankenship,DB,6'1,203,24,Middle Tennessee State,Philadelphia_Eagles
+24,James Bradberry,DB,6'1,210,30,Samford,Philadelphia_Eagles
+11,A.J. Brown,WR,6'1,226,26,Mississippi,Philadelphia_Eagles
+21,Sydney Brown,DB,5'10,211,23,Illinois,Philadelphia_Eagles
+31,Kevin Byard,DB,5'11,212,30,Middle Tennessee State,Philadelphia_Eagles
+81,Grant Calcaterra,TE,6'4,240,25,Southern Methodist,Philadelphia_Eagles
+98,Jalen Carter,DT,6'3,300,22,Georgia,Philadelphia_Eagles
+18,Britain Covey,WR,5'8,173,26,Utah,Philadelphia_Eagles
+91,Fletcher Cox,DT,6'4,310,33,Mississippi State,Philadelphia_Eagles
+52,Zach Cunningham,LB,6'3,238,29,Vanderbilt,Philadelphia_Eagles
+90,Jordan Davis,DT,6'6,336,23,Georgia,Philadelphia_Eagles
+69,Landon Dickerson,OG,6'6,332,25,Alabama,Philadelphia_Eagles
+63,Jack Driscoll,OT,6'5,312,26,Auburn,Philadelphia_Eagles
+4,Jake Elliott,K,5'9,167,28,Memphis,Philadelphia_Eagles
+14,Kenny Gainwell,RB,5'9,200,24,Memphis,Philadelphia_Eagles
+88,Dallas Goedert,TE,6'5,256,30,South Dakota State,Philadelphia_Eagles
+55,Brandon Graham,DE,6'2,265,35,Michigan,Philadelphia_Eagles
+1,Jalen Hurts,QB,6'1,223,25,Oklahoma,Philadelphia_Eagles
+28,Josh Jobe,DB,5'11,190,25,Alabama,Philadelphia_Eagles
+74,Fred Johnson,OT,6'7,326,26,Florida,Philadelphia_Eagles
+65,Lane Johnson,OT,6'6,325,33,Oklahoma,Philadelphia_Eagles
+48,Patrick Johnson,LB,6'2,248,--,Tulane,Philadelphia_Eagles
+80,Julio Jones,WR,6'3,220,34,Alabama,Philadelphia_Eagles
+51,Cameron Jurgens,OG,6'3,303,24,Nebraska,Philadelphia_Eagles
+62,Jason Kelce,C,6'3,295,36,Cincinnati,Philadelphia_Eagles
+53,Shaquille Leonard,LB,6'2,234,28,South Carolina State,Philadelphia_Eagles
+45,Rick Lovato,LS,6'2,249,31,Old Dominion,Philadelphia_Eagles
+29,Avonte Maddox,DB,5'9,184,27,Pittsburgh,Philadelphia_Eagles
+68,Jordan Mailata,OT,6'8,365,26,,Philadelphia_Eagles
+10,Braden Mann,P,5'11,198,26,Texas A&M,Philadelphia_Eagles
+8,Marcus Mariota,QB,6'4,222,30,Oregon,Philadelphia_Eagles
+36,Tristin McCollum,DB,6'3,195,24,Sam Houston State,Philadelphia_Eagles
+19,Tanner McKee,QB,6'6,230,23,Stanford,Philadelphia_Eagles
+41,Nicholas Morrow,LB,6'0,216,28,Greenville,Philadelphia_Eagles
+72,Moro Ojomo,DT,6'2,293,22,Texas,Philadelphia_Eagles
+78,Iosua Opeta,OG,6'4,305,27,Weber State,Philadelphia_Eagles
+23,Rashaad Penny,RB,5'11,220,27,San Diego State,Philadelphia_Eagles
+7,Haason Reddick,LB,6'1,240,29,Temple,Philadelphia_Eagles
+39,Eli Ricks,DB,6'2,190,22,Alabama,Philadelphia_Eagles
+22,Kelee Ringo,DB,6'2,207,21,Georgia,Philadelphia_Eagles
+33,Bradley Roby,DB,5'11,194,31,Ohio State,Philadelphia_Eagles
+35,Boston Scott,RB,5'6,203,28,Louisiana Tech,Philadelphia_Eagles
+2,Darius Slay,DB,6'0,190,33,Mississippi State,Philadelphia_Eagles
+6,DeVonta Smith,WR,6'0,170,25,Alabama,Philadelphia_Eagles
+3,Nolan Smith,LB,6'2,238,22,Georgia,Philadelphia_Eagles
+56,Tyler Steen,OT,6'6,321,23,Alabama,Philadelphia_Eagles
+89,Jack Stoll,TE,6'4,247,25,Nebraska,Philadelphia_Eagles
+94,Josh Sweat,DE,6'5,265,28,Florida State,Philadelphia_Eagles
+0,D'Andre Swift,RB,5'9,215,24,Georgia,Philadelphia_Eagles
+95,Marlon Tuipulotu,DT,6'2,307,24,Southern California,Philadelphia_Eagles
+57,Ben VanSumeren,LB,6'2,237,23,Michigan State,Philadelphia_Eagles
+16,Quez Watkins,WR,6'0,193,25,Southern Mississippi,Philadelphia_Eagles
+93,Milton Williams,DT,6'3,290,24,Louisiana Tech,Philadelphia_Eagles
+13,Olamide Zaccheaus,WR,5'8,193,26,Virginia,Philadelphia_Eagles
+54,Shaun Bradley,LB,6'1,240,26,Temple,Philadelphia_Eagles
+17,Nakobe Dean,LB,5'11,231,23,Georgia,Philadelphia_Eagles
+30,Justin Evans,DB,6'0,199,28,Texas A&M,Philadelphia_Eagles
+66,Roderick Johnson,OT,6'6,300,28,Florida State,Philadelphia_Eagles
+27,Zech McPhearson,DB,5'11,191,25,Texas Tech,Philadelphia_Eagles
+85,Albert Okwuegbunam,TE,6'5,258,25,Missouri,Philadelphia_Eagles
+--,Isaiah Rodgers,DB,5'10,170,26,Massachusetts,Philadelphia_Eagles
+57,Montravius Adams,DT,6'4,304,29,Auburn,Pittsburgh Steelers
+74,Spencer Anderson,OT,6'5,305,23,Maryland,Pittsburgh Steelers
+19,Calvin Austin,WR,5'9,162,24,Memphis,Pittsburgh Steelers
+95,Keeanu Benton,DT,6'4,309,22,Wisconsin,Pittsburgh Steelers
+9,Chris Boswell,K,6'2,185,32,Rice,Pittsburgh Steelers
+13,Miles Boykin,WR,6'4,220,27,Notre Dame,Pittsburgh Steelers
+61,Mason Cole,C,6'5,298,27,Michigan,Pittsburgh Steelers
+60,Dylan Cook,OT,6'6,305,25,Montana,Pittsburgh Steelers
+78,James Daniels,OG,6'4,327,26,Iowa,Pittsburgh Steelers
+39,Minkah Fitzpatrick,DB,6'1,207,27,Alabama,Pittsburgh Steelers
+88,Pat Freiermuth,TE,6'5,258,25,Penn State,Pittsburgh Steelers
+44,Markus Golden,LB,6'2,260,32,Missouri,Pittsburgh Steelers
+22,Najee Harris,RB,6'1,232,25,Alabama,Pittsburgh Steelers
+6,Pressley Harvin,P,6'0,255,25,Georgia Tech,Pittsburgh Steelers
+71,Nate Herbig,OG,6'4,334,29,Stanford,Pittsburgh Steelers
+51,Nick Herbig,LB,6'2,240,22,Wisconsin,Pittsburgh Steelers
+97,Cameron Heyward,DT,6'5,295,34,Ohio State,Pittsburgh Steelers
+83,Connor Heyward,TE,6'0,230,24,Michigan State,Pittsburgh Steelers
+56,Alex Highsmith,LB,6'4,242,26,North Carolina-Charlotte,Pittsburgh Steelers
+48,Godwin Igwebuike,RB,6'0,212,29,Northwestern,Pittsburgh Steelers
+16,Myles Jack,LB,6'1,255,28,UCLA,Pittsburgh Steelers
+18,Diontae Johnson,WR,5'10,183,27,Toledo,Pittsburgh Steelers
+53,Kyron Johnson,LB,6'0,235,25,Kansas,Pittsburgh Steelers
+77,Broderick Jones,OT,6'5,311,22,Georgia,Pittsburgh Steelers
+28,Miles Killebrew,DB,6'2,222,30,Southern Utah,Pittsburgh Steelers
+46,Christian Kuntz,LS,6'1,228,29,Duquesne,Pittsburgh Steelers
+98,DeMarvin Leal,DE,6'4,290,23,Texas A&M,Pittsburgh Steelers
+92,Isaiahh Loudermilk,DT,6'7,293,26,Wisconsin,Pittsburgh Steelers
+40,Blake Martinez,LB,6'2,237,29,Stanford,Pittsburgh Steelers
+65,Dan Moore,OT,6'5,315,25,Texas A&M,Pittsburgh Steelers
+99,Larry Ogunjobi,DT,6'3,305,29,North Carolina-Charlotte,Pittsburgh Steelers
+76,Chukwuma Okorafor,OT,6'6,320,26,Western Michigan,Pittsburgh Steelers
+20,Patrick Peterson,DB,6'0,219,33,Louisiana State,Pittsburgh Steelers
+14,George Pickens,WR,6'3,200,22,Georgia,Pittsburgh Steelers
+8,Kenny Pickett,QB,6'3,220,25,Pittsburgh,Pittsburgh Steelers
+42,James Pierre,DB,6'2,185,27,Florida Atlantic,Pittsburgh Steelers
+24,Joey Porter Jr.,DB,6'2,193,23,Penn State,Pittsburgh Steelers
+37,Elijah Riley,DB,6'0,205,25,Army,Pittsburgh Steelers
+50,Elandon Roberts,LB,5'11,235,29,Houston,Pittsburgh Steelers
+11,Allen Robinson,WR,6'2,210,30,Penn State,Pittsburgh Steelers
+93,Mark Robinson,LB,5'11,235,24,Mississippi,Pittsburgh Steelers
+25,Eric Rowe,DB,6'1,205,31,Utah,Pittsburgh Steelers
+2,Mason Rudolph,QB,6'5,235,28,Oklahoma State,Pittsburgh Steelers
+21,Darius Rush,DB,6'2,198,23,South Carolina,Pittsburgh Steelers
+73,Isaac Seumalo,OG,6'4,303,30,Oregon State,Pittsburgh Steelers
+34,Chandon Sullivan,DB,5'11,195,27,Georgia State,Pittsburgh Steelers
+17,Trenton Thompson,DB,6'1,196,26,San Diego State,Pittsburgh Steelers
+10,Mitchell Trubisky,QB,6'2,220,29,North Carolina,Pittsburgh Steelers
+38,Mykal Walker,LB,6'3,230,26,Fresno State,Pittsburgh Steelers
+29,Levi Wallace,DB,6'0,179,28,Alabama,Pittsburgh Steelers
+30,Jaylen Warren,RB,5'8,215,25,Oklahoma State,Pittsburgh Steelers
+80,Darnell Washington,TE,6'7,264,22,Georgia,Pittsburgh Steelers
+90,T.J. Watt,LB,6'4,252,29,Wisconsin,Pittsburgh Steelers
+94,Armon Watts,DT,6'5,295,27,Arkansas,Pittsburgh Steelers
+87,Rodney Williams,TE,6'4,235,25,Tennessee-Martin,Pittsburgh Steelers
+54,Kwon Alexander,LB,6'1,227,29,Louisiana State,Pittsburgh Steelers
+--,Alfonzo Graham,RB,5'9,195,23,Morgan State,Pittsburgh Steelers
+55,Cole Holcomb,LB,6'1,240,27,North Carolina,Pittsburgh Steelers
+31,Keanu Neal,DB,6'0,211,28,Florida,Pittsburgh Steelers
+49,Chapelle Russell,LB,6'2,236,26,Temple,Pittsburgh Steelers
+27,Cory Trice,DB,6'3,206,23,Purdue,Pittsburgh Steelers
+79,Renell Wren,DT,6'5,318,28,Arizona State,Pittsburgh Steelers
+23,Damontae Kazee,DB,5'11,174,30,San Diego State,Pittsburgh Steelers
+11,Brandon Aiyuk,WR,6'0,200,25,Arizona State,San Francisco 49ers
+17,Brandon Allen,QB,6'2,209,31,Arkansas,San Francisco 49ers
+91,Arik Armstead,DE,6'7,290,30,Oregon,San Francisco 49ers
+65,Aaron Banks,OG,6'5,325,26,Notre Dame,San Francisco 49ers
+78,Ben Bartch,OG,6'6,315,25,St. John's (MN),San Francisco 49ers
+51,Robert Beal,DE,6'4,250,24,Georgia,San Francisco 49ers
+10,Ronnie Bell,WR,6'0,192,23,Michigan,San Francisco 49ers
+97,Nick Bosa,DE,6'4,266,26,Ohio State,San Francisco 49ers
+64,Jake Brendel,C,6'4,299,31,UCLA,San Francisco 49ers
+27,Ji'Ayir Brown,DB,5'11,202,23,Penn State,San Francisco 49ers
+74,Spencer Burford,OT,6'4,300,23,Texas-San Antonio,San Francisco 49ers
+48,Oren Burks,LB,6'3,233,28,Vanderbilt,San Francisco 49ers
+84,Chris Conley,WR,6'3,205,31,Georgia,San Francisco 49ers
+14,Sam Darnold,QB,6'3,225,26,Southern California,San Francisco 49ers
+55,Jon Feliciano,OG,6'4,325,31,Miami,San Francisco 49ers
+94,Clelin Ferrell,DE,6'4,265,26,Clemson,San Francisco 49ers
+45,Demetrius Flannigan-Fowles,LB,6'2,223,27,Arizona,San Francisco 49ers
+31,Tashaun Gipson,DB,6'1,212,33,Wyoming,San Francisco 49ers
+90,Kevin Givens,DL,6'1,285,26,Penn State,San Francisco 49ers
+50,Jalen Graham,LB,6'3,220,22,Purdue,San Francisco 49ers
+57,Dre Greenlaw,LB,6'0,230,26,Arkansas,San Francisco 49ers
+5,Randy Gregory,LB,6'5,242,31,Nebraska,San Francisco 49ers
+98,Javon Hargrave,DT,6'2,305,30,South Carolina State,San Francisco 49ers
+41,Tayler Hawkins,DB,6'1,205,26,San Diego State,San Francisco 49ers
+15,Jauan Jennings,WR,6'3,212,26,Tennessee,San Francisco 49ers
+69,Sebastian Joseph,DT,6'4,310,28,Rutgers,San Francisco 49ers
+44,Kyle Juszczyk,RB,6'2,235,32,Harvard,San Francisco 49ers
+99,Javon Kinlaw,DT,6'5,319,26,South Carolina,San Francisco 49ers
+85,George Kittle,TE,6'4,250,30,Iowa,San Francisco 49ers
+2,Deommodore Lenoir,DB,5'10,200,--,Oregon,San Francisco 49ers
+28,Darrell Luter,DB,6'0,190,23,South Alabama,San Francisco 49ers
+24,Jordan Mason,RB,5'11,223,24,Georgia Tech,San Francisco 49ers
+23,Christian McCaffrey,RB,5'11,205,27,Stanford,San Francisco 49ers
+3,Ray Ray McCloud,WR,5'9,190,27,Clemson,San Francisco 49ers
+68,Colton McKivitz,OT,6'6,301,27,West Virginia,San Francisco 49ers
+36,Jeremy McNichols,RB,5'9,205,28,Boise State,San Francisco 49ers
+25,Elijah Mitchell,RB,5'10,200,--,Louisiana-Lafayette,San Francisco 49ers
+4,Jake Moody,K,6'1,210,24,Michigan,San Francisco 49ers
+76,Jaylon Moore,OT,6'4,311,25,Western Michigan,San Francisco 49ers
+26,Isaiah Oliver,DB,6'0,210,27,Colorado,San Francisco 49ers
+46,Taybor Pepper,LS,6'4,245,29,Michigan State,San Francisco 49ers
+75,Matt Pryor,OT,6'7,332,29,Texas Christian,San Francisco 49ers
+13,Brock Purdy,QB,6'1,220,24,Iowa State,San Francisco 49ers
+33,Logan Ryan,DB,5'11,195,32,Rutgers,San Francisco 49ers
+19,Deebo Samuel,WR,6'0,215,27,South Carolina,San Francisco 49ers
+20,Ambry Thomas,DB,6'0,190,24,Michigan,San Francisco 49ers
+7,Charvarius Ward,DB,6'1,196,27,Middle Tennessee State,San Francisco 49ers
+54,Fred Warner,LB,6'3,230,27,Brigham Young,San Francisco 49ers
+71,Trent Williams,OT,6'5,320,35,Oklahoma,San Francisco 49ers
+9,Brayden Willis,TE,6'4,240,24,Oklahoma,San Francisco 49ers
+53,Dee Winters,LB,5'11,227,23,Texas Christian,San Francisco 49ers
+18,Mitch Wishnowsky,P,6'2,220,31,Utah,San Francisco 49ers
+89,Charlie Woerner,TE,6'5,241,26,Georgia,San Francisco 49ers
+0,Sam Womack,DB,5'10,189,24,Toledo,San Francisco 49ers
+92,Chase Young,DE,6'5,264,24,Ohio State,San Francisco 49ers
+93,Kalia Davis,DT,6'2,310,25,Central Florida,San Francisco 49ers
+82,Ross Dwelley,TE,6'5,235,28,San Diego,San Francisco 49ers
+6,Danny Gray,WR,6'0,200,24,Southern Methodist,San Francisco 49ers
+29,Talanoa Hufanga,DB,6'0,200,--,Southern California,San Francisco 49ers
+95,Drake Jackson,DL,6'4,273,22,Southern California,San Francisco 49ers
+81,Cameron Latu,TE,6'5,244,23,Alabama,San Francisco 49ers
+30,George Odum,DB,6'1,202,30,Central Arkansas,San Francisco 49ers
+63,Nick Zakelj,OT,6'6,316,24,Fordham,San Francisco 49ers
+95,Myles Adams,DE,6'2,290,25,Rice,Seattle_Seahawks
+44,Nick Bellore,LB,6'1,250,34,Central Michigan,Seattle_Seahawks
+19,Jake Bobo,WR,6'4,207,25,UCLA,Seattle_Seahawks
+75,Anthony Bradford,OG,6'5,345,22,Louisiana State,Seattle_Seahawks
+56,Jordyn Brooks,LB,6'0,240,26,Texas Tech,Seattle_Seahawks
+63,Evan Brown,C,6'2,305,27,Southern Methodist,Seattle_Seahawks
+22,Tre Brown,DB,5'10,185,26,Oklahoma,Seattle_Seahawks
+8,Coby Bryant,DB,6'1,193,24,Cincinnati,Seattle_Seahawks
+23,Artie Burns,DB,6'0,187,28,Miami,Seattle_Seahawks
+0,Devin Bush,LB,5'11,234,25,Michigan,Seattle_Seahawks
+26,Zach Charbonnet,RB,6'1,214,23,UCLA,Seattle_Seahawks
+67,Charles Cross,OT,6'5,311,23,Mississippi State,Seattle_Seahawks
+74,Jake Curhan,OT,6'6,316,25,California,Seattle_Seahawks
+66,McClendon Curtis,OG,6'6,325,24,Tennessee-Chattanooga,Seattle_Seahawks
+31,DeeJay Dallas,RB,5'10,214,25,Miami,Seattle_Seahawks
+4,Michael Dickson,P,6'2,208,28,Texas,Seattle_Seahawks
+6,Quandre Diggs,DB,5'9,197,30,Texas,Seattle_Seahawks
+89,Will Dissly,TE,6'4,265,27,Washington,Seattle_Seahawks
+97,Mario Edwards Jr.,DE,6'3,280,29,Florida State,Seattle_Seahawks
+87,Noah Fant,TE,6'4,249,26,Iowa,Seattle_Seahawks
+64,Austin Faoliu,DT,6'3,292,24,Oregon,Seattle_Seahawks
+78,Stone Forsythe,OT,6'8,307,26,Florida,Seattle_Seahawks
+77,Matthew Gotel,DT,6'1,341,25,West Florida,Seattle_Seahawks
+58,Derick Hall,LB,6'3,252,22,Auburn,Seattle_Seahawks
+30,Michael Jackson,DB,6'1,210,26,Miami,Seattle_Seahawks
+55,Dre'Mont Jones,DE,6'3,281,27,Ohio State,Seattle_Seahawks
+68,Damien Lewis,OG,6'2,327,26,Louisiana State,Seattle_Seahawks
+2,Drew Lock,QB,6'4,228,27,Missouri,Seattle_Seahawks
+16,Tyler Lockett,WR,5'10,182,31,Kansas State,Seattle_Seahawks
+20,Julian Love,DB,5'11,195,25,Notre Dame,Seattle_Seahawks
+72,Abraham Lucas,OT,6'6,322,25,Washington State,Seattle_Seahawks
+53,Boye Mafe,LB,6'4,261,25,Minnesota,Seattle_Seahawks
+25,Kenny McIntosh,RB,6'0,210,23,Georgia,Seattle_Seahawks
+14,D.K. Metcalf,WR,6'4,235,26,Mississippi,Seattle_Seahawks
+5,Jason Myers,K,5'10,190,32,Marist,Seattle_Seahawks
+50,Patrick O'Connell,LB,6'1,227,25,Montana,Seattle_Seahawks
+79,Raiqwon O'Neal,OT,6'4,305,23,UCLA,Seattle_Seahawks
+39,Ty Okada,DB,5'11,193,24,Montana State,Seattle_Seahawks
+51,Olusegun Oluwatimi,C,6'3,309,24,Michigan,Seattle_Seahawks
+84,Colby Parkinson,TE,6'7,251,25,Stanford,Seattle_Seahawks
+70,Jason Peters,OT,6'4,328,41,Arkansas,Seattle_Seahawks
+90,Jarran Reed,DT,6'3,306,30,Alabama,Seattle_Seahawks
+59,Jon Rhattigan,LB,6'0,236,24,Army,Seattle_Seahawks
+38,Brady Russell,TE,6'3,250,25,Colorado,Seattle_Seahawks
+7,Geno Smith,QB,6'3,221,33,West Virginia,Seattle_Seahawks
+11,Jaxon Smith-Njigba,WR,6'1,200,21,Ohio State,Seattle_Seahawks
+41,Chris Stoll,LS,6'2,255,25,Penn State,Seattle_Seahawks
+52,Darrell Taylor,LB,6'4,267,26,Tennessee,Seattle_Seahawks
+54,Bobby Wagner,LB,6'0,242,33,Utah State,Seattle_Seahawks
+9,Kenneth Walker,RB,5'9,211,23,Michigan State,Seattle_Seahawks
+99,Leonard Williams,DE,6'5,300,29,Southern California,Seattle_Seahawks
+21,Devon Witherspoon,DB,6'0,185,23,Illinois,Seattle_Seahawks
+27,Tariq Woolen,DB,6'4,210,24,Texas-San Antonio,Seattle_Seahawks
+93,Cameron Young,DT,6'3,304,23,Mississippi State,Seattle_Seahawks
+83,Dareke Young,WR,6'2,224,24,Lenoir-Rhyne,Seattle_Seahawks
+33,Jamal Adams,DB,6'1,213,28,Louisiana State,Seattle_Seahawks
+77,LaTrell Bumphus,DE,6'3,280,--,Tennessee,Seattle_Seahawks
+1,D'Wayne Eskridge,WR,5'9,190,26,Western Michigan,Seattle_Seahawks
+60,Phil Haynes,OG,6'4,322,28,Wake Forest,Seattle_Seahawks
+94,Mike Morris,DE,6'6,292,22,Michigan,Seattle_Seahawks
+10,Uchenna Nwosu,LB,6'2,251,27,Southern California,Seattle_Seahawks
+49,Joshua Onujiogu,LB,6'2,252,25,Framingham,Seattle_Seahawks
+32,Jerrick Reed,DB,5'10,196,23,New Mexico,Seattle_Seahawks
+42,Drake Thomas,LB,5'11,228,23,North Carolina State,Seattle_Seahawks
+38,Andrew Whitaker,DB,6'0,183,24,Washington (MO),Seattle_Seahawks
+91,Bryan Mone,DT,6'3,345,28,Michigan,Seattle_Seahawks
+7,Shaquil Barrett,LB,6'2,250,31,Colorado State,Tampa Bay Buccaneers
+52,K.J. Britt,LB,6'0,235,24,Auburn,Tampa Bay Buccaneers
+5,Jake Camarda,P,6'1,193,24,Georgia,Tampa Bay Buccaneers
+54,Lavonte David,LB,6'1,233,33,Nebraska,Tampa Bay Buccaneers
+24,Carlton Davis,DB,6'1,206,27,Auburn,Tampa Bay Buccaneers
+35,Jamel Dean,DB,6'1,206,27,Auburn,Tampa Bay Buccaneers
+30,Dee Delaney,DB,5'11,200,28,Miami,Tampa Bay Buccaneers
+8,SirVocea Dennis,LB,6'0,226,23,Pittsburgh,Tampa Bay Buccaneers
+0,YaYa Diaby,LB,6'3,263,24,Louisville,Tampa Bay Buccaneers
+87,Payne Durham,TE,6'6,253,23,Purdue,Tampa Bay Buccaneers
+22,Chase Edmonds,RB,5'9,205,27,Fordham,Tampa Bay Buccaneers
+13,Mike Evans,WR,6'5,231,30,Texas A&M,Tampa Bay Buccaneers
+71,Matt Feiler,OG,6'6,330,31,Bloomsburg,Tampa Bay Buccaneers
+96,Greg Gaines,DT,6'1,312,27,Washington,Tampa Bay Buccaneers
+92,William Gholston,DE,6'6,281,32,Michigan State,Tampa Bay Buccaneers
+49,Cam Gill,LB,6'3,240,26,Wagner,Tampa Bay Buccaneers
+14,Chris Godwin,WR,6'1,208,27,Penn State,Tampa Bay Buccaneers
+67,Luke Goedeke,OT,6'5,312,25,Central Michigan,Tampa Bay Buccaneers
+70,Robert Hainsey,C,6'4,306,--,Notre Dame,Tampa Bay Buccaneers
+90,Logan Hall,DE,6'6,283,23,Houston,Tampa Bay Buccaneers
+32,Josh Hayes,DB,5'11,197,24,Kansas State,Tampa Bay Buccaneers
+29,Christian Izien,DB,5'8,197,23,Rutgers,Tampa Bay Buccaneers
+18,Rakim Jarrett,WR,6'0,190,22,Maryland,Tampa Bay Buccaneers
+94,Calijah Kancey,DT,6'1,281,22,Pittsburgh,Tampa Bay Buccaneers
+41,Ko Kieft,TE,6'5,265,25,Minnesota,Tampa Bay Buccaneers
+60,Nick Leverett,OG,6'4,310,26,Rice,Tampa Bay Buccaneers
+69,Cody Mauch,OG,6'5,302,24,North Dakota State,Tampa Bay Buccaneers
+6,Baker Mayfield,QB,6'1,215,28,Oklahoma,Tampa Bay Buccaneers
+27,Zyon McCollum,DB,6'2,199,24,Sam Houston State,Tampa Bay Buccaneers
+4,Chase McLaughlin,K,6'1,175,27,Illinois,Tampa Bay Buccaneers
+26,Kaevon Merriweather,DB,6'0,207,24,Iowa,Tampa Bay Buccaneers
+19,David Moore,WR,6'0,219,28,East Central (OK),Tampa Bay Buccaneers
+23,Ryan Neal,DB,6'3,200,28,Southern Illinois,Tampa Bay Buccaneers
+98,Anthony Nelson,LB,6'7,271,26,Iowa,Tampa Bay Buccaneers
+79,Pat O'Connor,DE,6'4,270,30,Eastern Michigan,Tampa Bay Buccaneers
+88,Cade Otton,TE,6'5,247,24,Washington,Tampa Bay Buccaneers
+10,Trey Palmer,WR,6'0,192,22,Nebraska,Tampa Bay Buccaneers
+51,J.J. Russell,LB,6'1,225,25,Memphis,Tampa Bay Buccaneers
+77,Justin Skule,OT,6'6,315,27,Vanderbilt,Tampa Bay Buccaneers
+64,Aaron Stinnie,OG,6'3,312,29,James Madison,Tampa Bay Buccaneers
+83,Deven Thompkins,WR,5'8,155,24,Utah State,Tampa Bay Buccaneers
+2,Kyle Trask,QB,6'5,236,25,Florida,Tampa Bay Buccaneers
+97,Zach Triner,LS,6'3,245,32,Assumption,Tampa Bay Buccaneers
+9,Joe Tryon-Shoyinka,LB,6'5,259,24,Washington,Tampa Bay Buccaneers
+44,Sean Tucker,RB,5'10,210,22,Syracuse,Tampa Bay Buccaneers
+50,Vita Vea,DT,6'4,347,28,Washington,Tampa Bay Buccaneers
+73,Brandon Walton,OT,6'5,300,25,Florida Atlantic,Tampa Bay Buccaneers
+58,Markees Watts,LB,6'1,240,24,North Carolina-Charlotte,Tampa Bay Buccaneers
+45,Devin White,LB,6'0,237,25,Louisiana State,Tampa Bay Buccaneers
+1,Rachaad White,RB,6'0,214,24,Arizona State,Tampa Bay Buccaneers
+31,Antoine Winfield,DB,5'9,203,25,Minnesota,Tampa Bay Buccaneers
+78,Tristan Wirfs,OT,6'5,320,24,Iowa,Tampa Bay Buccaneers
+11,John Wolford,QB,6'1,200,28,Wake Forest,Tampa Bay Buccaneers
+3,Russell Gage,WR,6'0,185,27,Louisiana State,Tampa Bay Buccaneers
+91,Mike Greene,DT,6'3,293,24,James Madison,Tampa Bay Buccaneers
+66,Ryan Jensen,C,6'4,319,32,Colorado State-Pueblo,Tampa Bay Buccaneers
+2,Azeez Al-Shaair,LB,6'2,228,26,Florida Atlantic,Tennessee_Titans
+96,Denico Autry,DE,6'5,285,33,Mississippi State,Tennessee_Titans
+23,Tre Avery,DB,5'11,181,26,Rutgers,Tennessee_Titans
+90,Ross Blacklock,DT,6'5,307,25,Texas Christian,Tennessee_Titans
+97,Quinton Bohanna,DT,6'4,360,24,Kentucky,Tennessee_Titans
+55,Aaron Brewer,C,6'1,274,26,Texas State,Tennessee_Titans
+44,Mike Brown,DB,6'1,222,24,Miami (OH),Tennessee_Titans
+60,Daniel Brunskill,OG,6'5,300,29,San Diego State,Tennessee_Titans
+16,Treylon Burks,WR,6'2,225,23,Arkansas,Tennessee_Titans
+91,Keondre Coburn,DT,6'2,332,23,Texas,Tennessee_Titans
+46,Morgan Cox,LS,6'4,233,37,Tennessee,Tennessee_Titans
+53,Tae Crowder,LB,6'3,235,26,Georgia,Tennessee_Titans
+92,Marlon Davidson,DT,6'3,303,25,Auburn,Tennessee_Titans
+71,Andre Dillard,OT,6'5,315,28,Washington State,Tennessee_Titans
+47,JoJo Domann,LB,6'1,230,26,Nebraska,Tennessee_Titans
+79,Jaelyn Duncan,OT,6'6,306,23,Maryland,Tennessee_Titans
+38,Terrell Edmunds,DB,6'1,217,26,Virginia Tech,Tennessee_Titans
+6,Nick Folk,K,6'1,222,39,Arizona,Tennessee_Titans
+33,Eric Garror,DB,5'8,174,23,Louisiana-Lafayette,Tennessee_Titans
+51,Trevis Gipson,LB,6'4,263,26,Tulsa,Tennessee_Titans
+22,Derrick Henry,RB,6'3,247,29,Alabama,Tennessee_Titans
+10,DeAndre Hopkins,WR,6'1,218,31,Clemson,Tennessee_Titans
+39,Matthew Jackson,DB,6'1,209,25,Eastern Kentucky,Tennessee_Titans
+94,Jaleel Johnson,DT,6'3,316,29,Iowa,Tennessee_Titans
+40,Anthony Kendall,DB,5'10,177,24,Baldwin-Wallace,Tennessee_Titans
+49,Arden Key,LB,6'5,240,27,Louisiana State,Tennessee_Titans
+12,Mason Kinsey,WR,5'10,203,25,Berry,Tennessee_Titans
+58,Harold Landry,LB,6'2,252,27,Boston College,Tennessee_Titans
+62,Corey Levin,C,6'4,307,29,Tennessee-Chattanooga,Tennessee_Titans
+8,Will Levis,QB,6'4,229,24,Kentucky,Tennessee_Titans
+21,Roger McCreary,DB,5'11,190,23,Auburn,Tennessee_Titans
+69,T.K. McLendon,DE,6'4,275,24,Eastern Kentucky,Tennessee_Titans
+24,Elijah Molden,DB,5'10,192,24,Washington,Tennessee_Titans
+11,Chris Moore,WR,6'1,200,30,Cincinnati,Tennessee_Titans
+42,Caleb Murphy,LB,6'3,254,24,Ferris State,Tennessee_Titans
+0,Sean Murphy-Bunting,DB,6'0,195,26,Central Michigan,Tennessee_Titans
+61,John Ojukwu,OT,6'5,309,24,Boise State,Tennessee_Titans
+85,Chigoziem Okonkwo,TE,6'3,238,24,Maryland,Tennessee_Titans
+18,Kyle Philips,WR,5'11,189,24,UCLA,Tennessee_Titans
+86,Kevin Rader,TE,6'4,250,28,Youngstown State,Tennessee_Titans
+75,Dillon Radunz,OT,6'6,301,25,North Dakota State,Tennessee_Titans
+41,Otis Reese,LB,6'3,214,25,Mississippi,Tennessee_Titans
+76,Andrew Rupcich,OT,6'6,318,24,Culver-Stockton,Tennessee_Titans
+36,Kendall Sheffield,DB,5'10,212,27,Ohio State,Tennessee_Titans
+77,Peter Skoronski,OT,6'4,313,22,Northwestern,Tennessee_Titans
+32,Tyjae Spears,RB,5'10,200,22,Tulane,Tennessee_Titans
+17,Ryan Tannehill,QB,6'4,217,35,Texas A&M,Tennessee_Titans
+72,Calvin Throckmorton,OG,6'5,311,27,Oregon,Tennessee_Titans
+35,K'Von Wallace,DB,5'11,205,26,Clemson,Tennessee_Titans
+54,Garret Wallow,LB,6'2,230,24,Texas Christian,Tennessee_Titans
+20,Jonathan Ward,RB,6'0,202,26,Central Michigan,Tennessee_Titans
+99,Rashad Weaver,LB,6'4,259,26,Pittsburgh,Tennessee_Titans
+88,Trevon Wesco,TE,6'3,267,28,West Virginia,Tennessee_Titans
+7,Malik Willis,QB,6'1,219,24,Liberty,Tennessee_Titans
+13,Ty Zentner,P,6'2,200,25,Kansas State,Tennessee_Titans
+91,Shakel Brown,DT,6'3,295,25,Troy State,Tennessee_Titans
+45,Chance Campbell,LB,6'2,232,24,Mississippi,Tennessee_Titans
+36,Julius Chestnut,RB,5'11,228,23,Sacred Heart,Tennessee_Titans
+14,Colton Dowell,WR,6'3,212,24,Tennessee-Martin,Tennessee_Titans
+26,Kristian Fulton,DB,5'11,197,25,Louisiana State,Tennessee_Titans
+50,Jack Gibbens,LB,6'3,242,25,Minnesota,Tennessee_Titans
+57,Luke Gifford,LB,6'3,243,28,Nebraska,Tennessee_Titans
+25,Hassan Haskins,RB,6'2,228,24,Michigan,Tennessee_Titans
+37,Amani Hooker,DB,5'11,210,25,Iowa,Tennessee_Titans
+66,Chris Hubbard,OT,6'4,295,32,Alabama-Birmingham,Tennessee_Titans
+5,Kearis Jackson,WR,5'11,196,24,Georgia,Tennessee_Titans
+52,Joseph Jones,LB,6'0,240,29,Northwestern,Tennessee_Titans
+95,Kyle Peko,DT,6'1,305,30,Oregon State,Tennessee_Titans
+78,Nicholas Petit-Frere,OT,6'5,316,24,Ohio State,Tennessee_Titans
+98,Jeffery Simmons,DT,6'4,305,26,Mississippi State,Tennessee_Titans
+4,Ryan Stonehouse,P,5'10,193,24,Colorado State,Tennessee_Titans
+15,Nick Westbrook,WR,6'2,211,26,Indiana,Tennessee_Titans
+81,Josh Whyle,TE,6'7,248,24,Cincinnati,Tennessee_Titans
+3,Caleb Farley,DB,6'2,197,25,Virginia Tech,Tennessee_Titans
+58,Tucker Addington,LS,6'2,230,26,Sam Houston State,Washington_Commanders
+62,Alex Akingbulu,OT,6'5,300,26,Fresno State,Washington_Commanders
+93,Jonathan Allen,DT,6'3,300,28,Alabama,Washington_Commanders
+92,Abdullah Anderson,DT,6'4,295,27,Bucknell,Washington_Commanders
+40,Alex Armah,RB,6'1,255,29,West Georgia,Washington_Commanders
+57,Cody Barton,LB,6'2,237,27,Utah,Washington_Commanders
+87,John Bates,TE,6'6,259,26,Boise State,Washington_Commanders
+12,Jacoby Brissett,QB,6'4,235,30,North Carolina State,Washington_Commanders
+2,Dyami Brown,WR,6'0,195,24,North Carolina,Washington_Commanders
+32,Terrell Burgess,DB,5'11,202,26,Utah,Washington_Commanders
+48,Sean Chandler,DB,5'10,200,27,Temple,Washington_Commanders
+77,Saahdiq Charles,OG,6'4,322,24,Louisiana State,Washington_Commanders
+76,Samuel Cosmi,OT,6'6,309,24,Texas,Washington_Commanders
+41,Jabril Cox,LB,6'3,235,25,Louisiana State,Washington_Commanders
+83,Jamison Crowder,WR,5'9,177,30,Duke,Washington_Commanders
+31,Kamren Curl,DB,6'2,198,24,Arkansas,Washington_Commanders
+1,Jahan Dotson,WR,5'11,182,23,Penn State,Washington_Commanders
+13,Emmanuel Forbes,DB,6'0,180,22,Mississippi State,Washington_Commanders
+11,Jake Fromm,QB,6'2,215,25,Georgia,Washington_Commanders
+63,Nick Gates,C,6'5,312,28,Nebraska,Washington_Commanders
+24,Antonio Gibson,RB,6'2,220,25,Memphis,Washington_Commanders
+61,Julian Good-Jones,OG,6'5,313,26,Iowa State,Washington_Commanders
+38,Derrick Gore,RB,5'10,212,29,Louisiana-Monroe,Washington_Commanders
+45,De'Jon Harris,LB,6'0,245,26,Arkansas,Washington_Commanders
+56,Jalen Harris,DE,6'4,257,24,Arizona,Washington_Commanders
+55,K.J. Henry,DE,6'4,255,24,Clemson,Washington_Commanders
+14,Sam Howell,QB,6'1,220,23,North Carolina,Washington_Commanders
+47,Khaleke Hudson,LB,6'0,220,26,Michigan,Washington_Commanders
+50,Andre Jones,DE,6'5,258,25,Louisiana-Lafayette,Washington_Commanders
+36,Kyu Blu Kelly,DB,6'0,193,22,Stanford,Washington_Commanders
+78,Cornelius Lucas,OT,6'8,327,32,Kansas State,Washington_Commanders
+20,Jartavius Martin,DB,6'0,195,23,Illinois,Washington_Commanders
+98,Phidarian Mathis,DT,6'4,312,25,Alabama,Washington_Commanders
+51,David Mayo,LB,6'2,240,30,Texas State,Washington_Commanders
+17,Terry McLaurin,WR,6'0,210,28,Ohio State,Washington_Commanders
+75,Chris Paul,OG,6'4,324,25,Tulsa,Washington_Commanders
+94,Daron Payne,DT,6'3,320,26,Alabama,Washington_Commanders
+79,Benning Potoa'e,DT,6'3,290,27,Washington,Washington_Commanders
+3,Byron Pringle,WR,6'1,203,30,Kansas State,Washington_Commanders
+59,Joshua Pryor,DE,6'4,280,24,Bowie State,Washington_Commanders
+91,John Ridgeway,DT,6'5,321,24,Arkansas,Washington_Commanders
+8,Brian Robinson,RB,6'1,228,24,Alabama,Washington_Commanders
+4,Curtis Samuel,WR,5'11,195,27,Ohio State,Washington_Commanders
+73,Trenton Scott,OT,6'5,320,29,Grambling,Washington_Commanders
+6,Joey Slye,K,5'11,213,27,Virginia Tech,Washington_Commanders
+96,James Smith-Williams,DE,6'4,265,26,North Carolina State,Washington_Commanders
+25,Benjamin St-Juste,DB,6'3,200,--,Minnesota,Washington_Commanders
+82,Logan Thomas,TE,6'6,250,32,Virginia Tech,Washington_Commanders
+86,Mitchell Tinsley,WR,6'1,205,24,Penn State,Washington_Commanders
+95,Casey Toohill,DE,6'5,254,27,Stanford,Washington_Commanders
+85,Cole Turner,TE,6'6,240,23,Nevada,Washington_Commanders
+5,Tress Way,P,6'1,220,33,Oklahoma,Washington_Commanders
+37,Nick Whiteside,DB,6'1,200,23,Saginaw Valley State,Washington_Commanders
+0,Jace Whittaker,DB,5'11,185,28,Arizona,Washington_Commanders
+71,Andrew Wylie,OT,6'6,309,29,Eastern Michigan,Washington_Commanders
+64,David Bada,DT,6'4,293,28,,Washington_Commanders
+68,Curtis Brooks,DT,6'2,287,25,Cincinnati,Washington_Commanders
+35,Percy Butler,DB,6'0,191,23,Louisiana-Lafayette,Washington_Commanders
+26,Tariq Castro-Fields,DB,6'1,197,24,Penn State,Washington_Commanders
+79,Braeden Daniels,OG,6'4,297,23,Utah,Washington_Commanders
+52,Jamin Davis,LB,6'3,234,25,Kentucky,Washington_Commanders
+46,Brandon Dillon,TE,6'5,250,26,Marian (IN),Washington_Commanders
+22,Darrick Forrest,DB,5'11,200,--,Cincinnati,Washington_Commanders
+29,Kendall Fuller,DB,5'11,198,28,Virginia Tech,Washington_Commanders
+80,Curtis Hodges,TE,6'8,240,24,Arizona State,Washington_Commanders
+34,Christian Holmes,DB,6'1,205,26,Oklahoma State,Washington_Commanders
+69,Tyler Larsen,C,6'4,335,32,Utah State,Washington_Commanders
+72,Charles Leno,OT,6'3,302,32,Boise State,Washington_Commanders
+15,Dax Milne,WR,6'0,190,--,Brigham Young,Washington_Commanders
+97,Efe Obada,DE,6'6,265,31,,Washington_Commanders
+39,Jeremy Reaves,DB,5'11,200,27,South Alabama,Washington_Commanders
+23,Christopher Rodriguez,RB,5'11,224,24,Kentucky,Washington_Commanders
+88,Armani Rogers,TE,6'5,225,26,Ohio,Washington_Commanders
+53,Ricky Stromberg,C,6'4,313,23,Arkansas,Washington_Commanders
+58,Shaka Toney,DE,6'2,238,26,Penn State,Washington_Commanders
