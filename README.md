@@ -1,6 +1,7 @@
+nfl.png
 # NFL Data Project #
 
-### Task 1: Database Design ###
+### Task 1: Database Design ### 
 create a SQL database with the following data tables and appropriate fields:
 * **Club:** _Demographic information about football clubs._
 * **Player:** _Demographic information about football players._
