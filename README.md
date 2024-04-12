@@ -1,4 +1,3 @@
-nfl.png
 # NFL Data Project #
 
 ### Task 1: Database Design ### 
